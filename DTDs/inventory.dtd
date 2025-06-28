@@ -1,0 +1,118 @@
+<!--
+	TODO: Learn more about XML catalogues.
+	* https://en.wikipedia.org/wiki/XML_catalog
+	* https://www.oasis-open.org/committees/entity/spec.html
+-->
+
+<!ELEMENT inventory (title|modified|currency|artists|items)*>
+<!ATTLIST inventory
+	xmlns       CDATA #FIXED "http://alhad.is/xml/record-collection.dtd"
+	xmlns:xlink CDATA #FIXED "http://www.w3.org/1999/xlink"
+	xml:lang    CDATA #IMPLIED>
+
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title
+	xml:lang CDATA #IMPLIED>
+
+<!ELEMENT modified (#PCDATA)>
+<!ELEMENT currency (#PCDATA)>
+
+
+<!--
+	List of recording artists who produced listed recordings.
+	
+	Helpful URL conversions:
+		^https?://www\.discogs\.com/artist/(\d+)(?:-[^/]*)?$
+		<discogs>$1</discogs>
+
+		^https?://www\.metal-archives\.com/bands/[^/]*/(\d+)$
+		^https?://www\.metal-archives\.com/band/view/id/(\d+)$
+		<ma>$1</ma>
+
+		^https?://rateyourmusic\.com/artist/([^\s/]+)
+		<rym>$1</rym>
+
+		^https?://([^\s.@:]+)\.bandcamp\.com/?$
+		<bc>$1</bc>
+-->
+<!ELEMENT artists (artist)*>
+<!ELEMENT artist (name|country|refs)*>
+<!ATTLIST artist
+	ref        IDREF #IMPLIED
+	xml:id     ID    #IMPLIED
+	xlink:href CDATA #IMPLIED>
+
+
+<!-- List of entity names -->
+<!ELEMENT names (name)*>
+<!ATTLIST names
+	format    CDATA #IMPLIED
+	separator CDATA " / ">
+<!ELEMENT name (#PCDATA|abbr)*>
+<!ATTLIST name xml:lang CDATA #IMPLIED>
+
+
+<!ELEMENT abbr (#PCDATA)>
+<!ATTLIST abbr
+	text     CDATA #REQUIRED
+	type     (acronym|initialism|contraction|crasis|gramogram|numeronym|symbol) #IMPLIED
+	show     (auto|true|false) "auto"
+	xml:lang CDATA #IMPLIED>
+
+<!ELEMENT country (#PCDATA)>
+<!ATTLIST country region CDATA #IMPLIED>
+
+<!ELEMENT refs (bc|discogs|fb|ma|mbid|rym|wd)*>
+
+<!--
+	Bandcamp user ID; specifies subdomain of artist page, optionally with a link
+	to a specific track or release published by said artist.
+	<bc>slayer</bc>                           ⇒  https://slayer.bandcamp.com/
+	<bc album="hell-awaits">slayer</bc>       ⇒  https://slayer.bandcamp.com/album/hell-awaits
+	<bc track="the-antichrist-2">slayer</bc>  ⇒  https://slayer.bandcamp.com/track/the-antichrist-2
+-->
+<!ELEMENT bc (#PCDATA)>
+<!ATTLIST bc
+	album CDATA #IMPLIED
+	track CDATA #IMPLIED>
+
+<!--
+	Discogs ID. Format is an unsigned integer with a possible trailing slug separated by a dash.
+	<discogs>45467</discogs>             ⇒  https://www.discogs.com/artist/45467
+	<discogs>45467-Pink-Floyd</discogs>  ⇒  https://www.discogs.com/artist/45467-Pink-Floyd
+-->
+<!ELEMENT discogs (#PCDATA)>
+<!ATTLIST discogs type (auto|artist|label|master|release) "auto">
+
+<!--
+	Facebook ID or username. Pages must be publicly-readable; purely-numeric IDs are
+	preferred over user-defined handles, which are prone to change over time.
+-->
+<!ELEMENT fb (#PCDATA)>
+
+<!--
+	Metal Archives ID. Format is an unsigned integer corresponding to a typed-entity's database ID.
+	<ma>17</ma>                 ⇒ https://www.metal-archives.com/band/view/id/17
+	<ma type="artist">22</ma>   ⇒ https://www.metal-archives.com/artist/view/id/22
+	<ma type="release">199</ma> ⇒ https://www.metal-archives.com/release/view/id/199
+-->
+<!ELEMENT ma (#PCDATA)>
+<!ATTLIST ma type (auto|band|artist|release|label) "auto">
+
+<!-- Self-explanatory reference types -->
+<!ELEMENT mbid (#PCDATA)>  <!-- MusicBrainz Identifier -->
+<!ELEMENT rym  (#PCDATA)>  <!-- Rate Your Music artist or release page -->
+<!ELEMENT wd   (#PCDATA)>  <!-- Wikidata item -->
+
+
+
+
+
+
+<!ELEMENT items   (release, note?, price?)>
+<!ELEMENT release ((artist|artists), copies?, format, (name|names), note?, refs?, version*)>
+<!ELEMENT copies  (#PCDATA)>
+<!ELEMENT format  (#PCDATA)>
+<!ELEMENT note    (#PCDATA)>
+<!ELEMENT version (name|format|refs|price)*>
+<!ATTLIST version main (true) #FIXED "true">

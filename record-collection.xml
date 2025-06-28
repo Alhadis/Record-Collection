@@ -1,0 +1,5207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE inventory SYSTEM "DTDs/inventory.dtd">
+<inventory xml:lang="en">
+	<title>Alhadis’s record collection</title>
+	<modified>2025-06-23T07:49:59+10:00</modified>
+	<currency>AUD</currency>
+
+	<artists>
+		<artist xml:id="16-bitch-pile-up">
+			<name>16 Bitch Pile-up</name>
+			<country region="Columbus, Ohio">US</country>
+			<refs>
+				<discogs>346626</discogs>
+				<mbid>90479cfd-d1bf-45b1-a53d-753815fbeb8d</mbid>
+				<rym>16-bitch-pile-up</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="3xa">
+			<name><abbr text="Abdominal Aortic Aneurysm" show="true">3XA</abbr></name>
+			<country>US</country>
+			<refs>
+				<discogs>3822217</discogs>
+				<mbid>4e23120c-4e2b-4038-a627-77a0ba116d9d</mbid>
+				<rym>3xa</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="abjection-ritual">
+			<name>Abjection Ritual</name>
+			<country>US</country>
+			<refs>
+				<bc>abjectionritual</bc>
+				<discogs>4249242</discogs>
+				<mbid>81f610ee-5afa-450a-a38e-3f7b8bf70a98</mbid>
+				<rym>abjection-ritual</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="actuary">
+			<name>Actuary</name>
+			<country>US</country>
+			<refs>
+				<discogs>1153853</discogs>
+				<mbid>8ad1b198-d7ef-44b0-82cb-7b4fe795a952</mbid>
+				<rym>actuary</rym>
+				<wd>Q60308196</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="aderlating">
+			<name xml:lang="nl">Aderlating</name>
+			<country>NL</country>
+			<refs>
+				<bc>gnawtheirtongues</bc>
+				<discogs>1365216</discogs>
+				<fb>137622832995217</fb>
+				<mbid>0cb960f9-091e-44b6-b215-8d035873edc7</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="aeon-nought">
+			<name>Æon Nought</name>
+			<country>NL</country>
+			<refs>
+				<discogs>3937004</discogs>
+				<mbid>9cccf6c7-bcb2-48b7-b05f-7bcd5fd6d468</mbid>
+				<rym>aeon_nought</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="aevangelist">
+			<name>Ævangelist</name>
+			<country>US</country>
+			<refs>
+				<bc>aevangelist</bc>
+				<discogs>3164829</discogs>
+				<fb>100063482675488</fb>
+				<ma>3540323826</ma>
+				<mbid>06f5494d-b22a-457e-8aef-328d2c83a5fc</mbid>
+				<wd>Q17710070</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="afonia">
+			<name>Afonia</name>
+			<country>RU</country>
+			<refs>
+				<bc>afoniaural</bc>
+				<discogs>2489434</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="agathocles">
+			<name>Agathocles</name>
+			<country>BE</country>
+			<refs>
+				<bc>capitalscumagathocles</bc>
+				<discogs>252868</discogs>
+				<fb>100063591579662</fb>
+				<ma>2649</ma>
+				<mbid>4a2e0104-e6ea-42ec-9399-1f670418c134</mbid>
+				<wd>Q391393</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="akhlys">
+			<name>Akhlys</name>
+			<country>US</country>
+			<refs>
+				<bc>akhlys</bc>
+				<discogs>1642547</discogs>
+				<fb>100045704862350</fb>
+				<ma>3540395486</ma>
+				<mbid>fae0a90c-22ac-4065-a904-514cfca30ad9</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="alien-possession">
+			<name>Alien Possession</name>
+			<country>NL</country>
+			<refs>
+				<discogs>3716708</discogs>
+				<ma>3540375700</ma>
+				<mbid>86bf510c-6fbb-4afc-884a-c4f2d61da0f5</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="altar-of-plagues">
+			<name>Altar of Plagues</name>
+			<country region="Cork">IE</country>
+			<refs>
+				<bc>altarofplagues</bc>
+				<discogs>1484207</discogs>
+				<fb>100045255787331</fb>
+				<ma>85064</ma>
+				<mbid>33fd78d9-3b93-49a2-9ccf-0d90b527fc8d</mbid>
+				<rym>altar_of_plagues</rym>
+				<wd>Q4736180</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="amnis-nihili">
+			<name>Amnis Nihili</name>
+			<country region="Athens">GR</country>
+			<refs>
+				<bc>amnisnihili</bc>
+				<discogs>2438470</discogs>
+				<ma>3540327677</ma>
+				<mbid>8200ce21-e3a9-4e41-b342-000124ff0378</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="ana-venus">
+			<name>Ana Venus</name>
+			<country>HU</country>
+			<refs>
+				<bc>anavenus</bc>
+				<discogs>2864748</discogs>
+				<mbid>feced732-9436-49af-98e8-4d2fd616c1de</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="anaal-nathrakh">
+			<name>Anaal Nathrakh</name>
+			<country region="Birmingham">GB</country>
+			<refs>
+				<bc>anaalnathrakh</bc>
+				<discogs>252834</discogs>
+				<fb>100050676510566</fb>
+				<ma>1314</ma>
+				<mbid>9bf82496-9d7b-43ac-b3ee-076c90ada9d7</mbid>
+				<rym>anaal-nathrakh</rym>
+				<wd>Q483140</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="ancient-niggurath">
+			<name>Ancient Niggurath</name>
+			<country region="Trois-Rivières, Quebec">CA</country>
+			<refs>
+				<discogs>5109923</discogs>
+				<ma>3540352253</ma>
+			</refs>
+		</artist>
+		
+		<artist xml:id="anenzephalia">
+			<name>Anenzephalia</name>
+			<country>DE</country>
+			<refs>
+				<discogs>51878</discogs>
+				<mbid>926872f9-3d2c-49ef-8b70-402a116c7ee0</mbid>
+				<rym>anenzephalia</rym>
+				<wd>Q4761684</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="antaeus">
+			<name>Antaeus</name>
+			<country region="Maisons-Laffitte, Île-de-France">FR</country>
+			<refs>
+				<bc>antaeusofficial</bc>
+				<discogs>259922</discogs>
+				<fb>100050691240175</fb>
+				<ma>2170</ma>
+				<mbid>86e4ecee-d1a3-4d95-91d5-e097aaf18620</mbid>
+				<wd>Q570552</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="arcanum-inferi">
+			<name>Arcanum Inferi</name>
+			<country region="Misterbianco, Catania, Sicily">IT</country>
+			<refs>
+				<discogs>2873360</discogs>
+				<fb>100063921181194</fb>
+				<ma>3540304805</ma>
+			</refs>
+		</artist>
+		
+		<artist xml:id="atrax-morgue">
+			<name>Atrax Morgue</name>
+			<country>IT</country>
+			<refs>
+				<discogs>73014</discogs>
+				<mbid>395c43f0-2427-4248-99f5-dee095b845a6</mbid>
+				<rym>atrax_morgue</rym>
+				<wd>Q3846033</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="bastardass">
+			<name>Bastardass</name>
+			<country>US</country>
+			<refs>
+				<discogs>1436318</discogs>
+				<mbid>dc60acce-8a20-466c-8be9-df2a669344e4</mbid>
+				<rym>bastardass</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="belphegor">
+			<name>Belphegor</name>
+			<country region="Salzburg">AT</country>
+			<refs>
+				<bc>belphegor-austria</bc>
+				<discogs>282546</discogs>
+				<fb>100044322613473</fb>
+				<ma>1952</ma>
+				<mbid>a41cc6b0-ff0c-4331-9add-907025607e95</mbid>
+				<rym>belphegor</rym>
+				<wd>Q589580</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="black-cop">
+			<name>Black Cop</name>
+			<country region="Glasgow, Scotland">GB</country>
+			<refs>
+				<bc>black-cop</bc>
+				<discogs>4033553</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="blackhumour">
+			<name>Blackhumour</name>
+			<country region="Vancouver, British Columbia">CA</country>
+			<refs>
+				<discogs>80079</discogs>
+				<mbid>9cd2699b-2c77-4c83-83f1-0d980ebdfeea</mbid>
+				<rym>blackhumour</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="blut-aus-nord">
+			<name xml:lang="de">Blut aus Nord</name>
+			<country region="Mondeville, Normandy">FR</country>
+			<refs>
+				<bc>blutausnord</bc>
+				<discogs>265571</discogs>
+				<fb>100044399050434</fb>
+				<ma>2371</ma>
+				<mbid>c21db200-1f7c-4c23-b518-cf7fac6b8e85</mbid>
+				<rym>blut-aus-nord</rym>
+				<wd>Q632229</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="bob-bellerue">
+			<name>Bob Bellerue</name>
+			<country>US</country>
+			<refs>
+				<bc>bobbellerue</bc>
+				<discogs>378554</discogs>
+				<mbid>24efabe6-06b0-4302-b73b-891322928629</mbid>
+				<rym>bob_bellerue</rym>
+				<wd>Q4931789</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="boneache">
+			<name>Bone Ache</name>
+			<country>BR</country>
+			<refs>
+				<discogs>2733001</discogs>
+				<fb>100068215292186</fb>
+				<mbid>6ebef50d-c87b-4cd7-b849-c0ab1346927d</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="bowel-rot">
+			<name>Bowel Rot</name>
+			<country>US</country>
+			<refs>
+				<discogs>2802424</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="bradymenorrhoea">
+			<name>Bradymenorrhoea</name>
+			<country>US</country>
+			<refs>
+				<discogs>2476691</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="branched-vein-sarcoma">
+			<name>Branched Vein Sarcoma</name>
+			<country>US</country>
+			<refs>
+				<discogs>4446449</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="brighter-death-now">
+			<name>Brighter Death Now</name>
+			<country>SE</country>
+			<refs>
+				<bc>brighterdeathnow</bc>
+				<discogs>24658</discogs>
+				<mbid>60bf0dce-6daa-4ef0-b9b7-0100a185f42a</mbid>
+				<rym>brighter_death_now</rym>
+				<wd>Q9179347</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="coupo">
+			<name><abbr type="initialism" text="Carcinomas of Unknown Primary Origin">C.O.U.P.O.</abbr></name>
+			<country>US</country>
+			<refs>
+				<discogs>4083448</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="caffa">
+			<name>Caffa</name>
+			<country region="Oakland, California">US</country>
+			<refs>
+				<bc>caffa</bc>
+				<discogs>3398808</discogs>
+				<fb>100063719374158</fb>
+				<ma>3540368026</ma>
+				<mbid>8f8bc2ae-2430-430a-8e46-996f0877461c</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="caligula031">
+			<name>Caligula031</name>
+			<country>IT</country>
+			<refs>
+				<bc>caligula031</bc>
+				<discogs>1830045</discogs>
+				<mbid>7ec96cdb-1dea-42c5-b0be-a8f98ddc767e</mbid>
+				<rym>caligula031</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="cancer-makhluk">
+			<name>Cancer Makhluk</name>
+			<country>AU</country>
+			<refs>
+				<discogs type="label">1026725</discogs>
+				<ma type="artist">209273</ma>
+			</refs>
+		</artist>
+		
+		<artist xml:id="carlos-villena">
+			<name>Carlos Villena</name>
+			<country>ES</country>
+			<refs>
+				<discogs>1087230</discogs>
+				<mbid>9c232e38-957c-4432-ae27-5f7f92fe2aae</mbid>
+				<rym>carlos_villena</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="carpathian-forest">
+			<name>Carpathian Forest</name>
+			<country>NO</country>
+			<refs>
+				<bc>carpathianforest</bc>
+				<discogs>259817</discogs>
+				<fb>100044324864926</fb>
+				<ma>147</ma>
+				<mbid>69fa5c49-12ec-4c86-a238-4e07cc6d1a7d</mbid>
+				<rym>carpathian-forest</rym>
+				<wd>Q160111</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="catacombs-of-doom">
+			<name>Catacombs of Doom</name>
+			<country region="Athens">GR</country>
+			<refs>
+				<bc>catacombsofdoom</bc>
+				<discogs>1219157</discogs>
+				<fb>100064357441762</fb>
+				<mbid>50eed2d1-cd47-41ae-81c3-c3d44cece716</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="circle-of-salt">
+			<name>Circle of Salt</name>
+			<country region="Montréal, Quebec">CA</country>
+			<refs>
+				<bc>thecircleofsalt</bc>
+				<discogs>4293967</discogs>
+				<ma>3540398601</ma>
+				<mbid>61c53fc2-d609-48cd-9a2a-c2709e6124c1</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="cold-frozen-grave">
+			<name>Cold Frozen Grave</name>
+			<country region="Oregon">US</country>
+			<refs>
+				<discogs>3897130</discogs>
+				<fb>100063468431267</fb>
+				<ma>3540363144</ma>
+				<mbid>7ab38b77-5749-4dc3-9e95-ab2aeef7f40e</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="cronaca-nera">
+			<name xml:lang="it">Cronaca Nera</name>
+			<country>IT</country>
+			<refs>
+				<bc>cronacanera</bc>
+				<discogs>239241</discogs>
+				<mbid>665a6a56-ef6c-4880-85be-bfd7190cf051</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="crown-of-asteria">
+			<name>Crown of Asteria</name>
+			<country region="Bancroft, Michigan">US</country>
+			<refs>
+				<bc>crownofasteria</bc>
+				<discogs>3292551</discogs>
+				<ma>3540362538</ma>
+				<mbid>89e97a81-facc-497e-b9e7-e2d384cd7d98</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="dehydrated-tissues">
+			<name>Dehydrated Tissues</name>
+			<country region="Russellville, Arkansas">US</country>
+			<refs>
+				<discogs>2869431</discogs>
+				<mbid>8e591aa4-27d6-4b1a-bfa8-e6118c223b57</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="dephosphorus">
+			<name>Dephosphorus</name>
+			<country region="Athens">GR</country>
+			<refs>
+				<bc>dephosphorus</bc>
+				<discogs>2659087</discogs>
+				<fb>100060894312265</fb>
+				<ma>3540327560</ma>
+				<mbid>adc94368-3568-4d92-9f2a-f50a27b8be68</mbid>
+				<wd>Q51029504</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="doubled-over">
+			<name>Doubled Over</name>
+			<country region="Melbourne, Victoria">AU</country>
+			<refs>
+				<discogs>2310884</discogs>
+				<ma>3540295797</ma>
+				<mbid>ff7ce12d-5f4e-49e2-811a-75ed6163afe2</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="drudkh">
+			<name>Drudkh</name>
+			<country>UK</country>
+			<refs>
+				<bc>drudkh</bc>
+				<discogs>416425</discogs>
+				<fb>100044309475494</fb>
+				<ma>9344</ma>
+				<mbid>469eb232-7163-47a8-96a3-8c82d24b2888</mbid>
+				<wd>Q1261136</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="einsturzende-neubauten">
+			<name xml:lang="de">Einstürzende Neubauten</name>
+			<country region="Berlin">DE</country>
+			<refs>
+				<bc>neubauten</bc>
+				<discogs>38794</discogs>
+				<mbid>6e9ac29b-798c-4af7-8d9e-55cdc72a999c</mbid>
+				<rym>einsturzende_neubauten</rym>
+				<wd>Q11898</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="eko-eko-azarak">
+			<name>Eko Eko Azarak</name>
+			<country>AU</country>
+			<refs>
+				<discogs>2319372</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="elasticdeath">
+			<name>Elasticdeath</name>
+			<country region="Resende, Rio de Janeiro">BR</country>
+			<refs>
+				<bc>elasticdeath</bc>
+				<discogs>2313320</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="embalming-theatre">
+			<name>Embalming Theatre</name>
+			<country>CH</country>
+			<refs>
+				<bc>embalmingtheatre</bc>
+				<discogs>938507</discogs>
+				<fb>100063477190861</fb>
+				<ma>6731</ma>
+				<mbid>5bdddd5d-d2eb-41e2-84b0-f1f7084b86ea</mbid>
+				<rym>embalming_theatre</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="endstille">
+			<name xml:lang="de">Endstille</name>
+			<country>DE</country>
+			<refs>
+				<bc>endstille</bc>
+				<discogs>358402</discogs>
+				<fb>100044367431845</fb>
+				<ma>9818</ma>
+				<mbid>11a18071-0506-4d4e-b1a1-894825763f54</mbid>
+				<rym>endstille</rym>
+				<wd>Q570631</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="enterorrhagia">
+			<name>Enterorrhagia</name>
+			<country>US</country>
+			<refs>
+				<discogs>1599083</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="erotophonophilia">
+			<name>Erotophonophilia</name>
+			<country>US</country>
+			<refs>
+				<discogs>4866929</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="esthesis">
+			<name>Esthesis</name>
+			<country region="Kirov, Kirov Oblast">RU</country>
+			<refs>
+				<bc album="human-infection">fromthedarkpast</bc>
+				<discogs>6173387</discogs>
+				<ma>3540398530</ma>
+			</refs>
+		</artist>
+		
+		<artist xml:id="eternal-majesty">
+			<name>Eternal Majesty</name>
+			<country>FR</country>
+			<refs>
+				<bc>eternalmajesty</bc>
+				<discogs>263168</discogs>
+				<fb>187250837964841</fb>
+				<ma>4816</ma>
+				<mbid>b998d6da-3e19-4ba3-9314-0846ae0c582b</mbid>
+				<wd>Q5402670</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="extreme-putrefaction">
+			<name>Extreme Putrefaction</name>
+			<country>US</country>
+			<refs>
+				<discogs>3609140</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="father-befouled">
+			<name>Father Befouled</name>
+			<country>US</country>
+			<refs>
+				<bc>fatherbefouled</bc>
+				<discogs>1636034</discogs>
+				<fb>100063135133653</fb>
+				<ma>3540256096</ma>
+				<mbid>883bbae0-15d3-499b-a037-a762dfcda73b</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="forest-of-impaled">
+			<name>Forest of Impaled</name>
+			<country region="Chicago, Illinois">US</country>
+			<refs>
+				<discogs>1425630</discogs>
+				<fb>100063861544215</fb>
+				<ma>5955</ma>
+				<mbid>1b0a717f-08d6-4179-bcae-56118241d985</mbid>
+				<rym>forest_of_impaled</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="francis-dhomont">
+			<name>Francis Dhomont</name>
+			<country>FR</country>
+			<refs>
+				<discogs>153301</discogs>
+				<mbid>2228a756-d93d-44f0-8ef5-424c1f0da7de</mbid>
+				<rym>francis_dhomont</rym>
+				<wd>Q1441466</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="frater-ximenes-is-dead">
+			<name>Frater Ximenes Is Dead</name>
+			<country>IT</country>
+			<refs>
+				<bc>fraterximenesisdead</bc>
+				<discogs>3359674</discogs>
+				<ma>3540365518</ma>
+				<mbid>97961fff-0a6a-446f-89f8-df5a858e656b</mbid>
+				<rym>frater_ximenes_is_dead</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="fukpig">
+			<name>Fukpig</name>
+			<country>GB</country>
+			<refs>
+				<bc>fukpig</bc>
+				<discogs>1930850</discogs>
+				<fb>100036361730950</fb>
+				<ma>3540283535</ma>
+				<mbid>93d17a1a-c2a3-4607-b8d1-ae383d4c61d5</mbid>
+				<wd>Q5507609</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="gate-to-void">
+			<name>Gate to Void</name>
+			<country>ES</country>
+			<refs>
+				<discogs>1738640</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="gelsomina">
+			<name>Gelsomina</name>
+			<country region="Turku">FI</country>
+			<refs>
+				<discogs>295728</discogs>
+				<mbid>aa2e2fd5-296c-403e-b849-6cf50a98c936</mbid>
+				<rym>gelsomina</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="government-alpha">
+			<name>Government Alpha</name>
+			<country>JA</country>
+			<refs>
+				<bc>governmentalpha</bc>
+				<discogs>74531</discogs>
+				<fb>100058074279811</fb>
+				<mbid>68481536-19e7-4aa0-a282-9d5d96fb9197</mbid>
+				<rym>government-alpha</rym>
+				<wd>Q5588674</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="graupel">
+			<name>Graupel</name>
+			<country region="Aachen, North Rhine-Westphalia">DE</country>
+			<refs>
+				<bc>graupel-germany</bc>
+				<discogs>718750</discogs>
+				<fb>100063694141232</fb>
+				<ma>12643</ma>
+				<mbid>327f7549-f14d-4376-b96c-cc2571205a71</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="gravecrusher">
+			<name>Gravecrusher</name>
+			<country region="Szeged, Csongrád">HU</country>
+			<refs>
+				<bc>gravecrusher</bc>
+				<discogs>3221415</discogs>
+				<fb>100063673296178</fb>
+				<ma>3540353828</ma>
+				<mbid>b35efe08-3d27-485d-a255-0695a46f18e2</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="gruntsplatter">
+			<name>Gruntsplatter</name>
+			<country region="Portland, Oregon">US</country>
+			<refs>
+				<bc>gruntsplatter</bc>
+				<discogs>6568</discogs>
+				<fb>100063239739013</fb>
+				<mbid>d348c58c-9847-4ac3-8851-6b33305aef1c</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="grylliphagia">
+			<name>Grylliphagia</name>
+			<country region="Fortaleza, Ceará">BR</country>
+			<refs>
+				<discogs>3127362</discogs>
+				<rym>grylliphagia</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="gulaggh">
+			<name>Gulaggh</name>
+			<country>NL</country>
+			<refs>
+				<discogs>1165422</discogs>
+				<mbid>d03755fc-92a3-4f48-835b-dc1b0f75585d</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="halalnihil">
+			<name>Halalnihil</name>
+			<country>HU</country>
+			<refs>
+				<bc>halalnihil</bc>
+				<discogs>2159623</discogs>
+				<mbid>bbb78194-741e-423e-b568-b6b5d7dde860</mbid>
+				<rym>halalnihil</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="halo-manash">
+			<name>Halo Manash</name>
+			<country region="Oulu">FI</country>
+			<refs>
+				<bc>halomanash</bc>
+				<discogs>234646</discogs>
+				<fb>100039534412642</fb>
+				<mbid>ac61b85f-c6e6-42b9-9c09-7b9f32e833c3</mbid>
+				<wd>Q5643325</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="haraam">
+			<name>Haraam</name>
+			<country>AU</country>
+			<refs>
+				<bc>haraam-noise</bc>
+				<discogs>5429309</discogs>
+				<mbid>fe737941-ac3c-42b1-b09c-15a04b489f17</mbid>
+				<rym>haraam-1</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="headcrash">
+			<name>Headcrash</name>
+			<country region="Eindhoven, North Brabant">NL</country>
+			<refs>
+				<discogs>183159</discogs>
+				<ma>3540336562</ma>
+				<mbid>0cdd8325-24ec-4fbf-8146-0edc038118d5</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="headless-death">
+			<name>Headless Death</name>
+			<country region="Melbourne, Victoria">AU</country>
+			<refs>
+				<bc>headlessdeath</bc>
+				<discogs>2669860</discogs>
+				<ma>3540437379</ma>
+				<mbid>446b182d-adbf-460e-a5f6-33a1e064aabe</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="hepatobiliary-tubelike-structures-deficiency">
+			<name>Hepatobiliary Tubelike Structures Deficiency</name>
+			<country>US</country>
+			<refs>
+				<discogs>3609137</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="hydrocephalus">
+			<name>Hydrocephalus</name>
+			<country>US</country>
+			<refs>
+				<discogs>4494744</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="hydropneumothorax">
+			<name>Hydropneumothorax</name>
+			<country>IE</country>
+			<refs>
+				<discogs>2046974</discogs>
+				<fb>100063532308988</fb>
+				<mbid>2c6315fc-9f5d-4347-8051-7344ebad6652</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="impulse-kontrol">
+			<name>Impulse/Kontrol</name>
+			<country>AU</country>
+			<refs>
+				<discogs>5109145</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="in-the-company-of-serpents">
+			<name>In the Company of Serpents</name>
+			<country region="Denver, Colorado">US</country>
+			<refs>
+				<bc>inthecompanyofserpentsdoom</bc>
+				<discogs>2721428</discogs>
+				<fb>100042236275968</fb>
+				<ma>3540344071</ma>
+				<mbid>47b57ba5-a69c-437f-ae35-c5672cfcb836</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="infester">
+			<name>Infester</name>
+			<country region="Russellville, Arkansas">US</country>
+			<refs>
+				<bc album="ix-nxvx">vasculavomitrecords</bc>
+				<discogs>3126355</discogs>
+				<ma>3540490534</ma>
+				<mbid>c85a7193-1ab9-4fb7-abaa-21efbe2222fa</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="iugula-thor">
+			<name>Iugula-Thor</name>
+			<country region="Milan">IT</country>
+			<refs>
+				<bc>iugulathor</bc>
+				<discogs>73134</discogs>
+				<mbid>5648586e-96a1-4be2-883e-8d9c74606367</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="ix">
+			<name>Ix</name>
+			<refs>
+				<discogs>4809040</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="jhk">
+			<name>JHK</name>
+			<refs>
+				<discogs>11599799</discogs>
+				<fb>1236996082</fb>
+			</refs>
+		</artist>
+		
+		<artist xml:id="katharsis">
+			<name xml:lang="de">Katharsis</name>
+			<country region="Zwickau, Saxony">DE</country>
+			<refs>
+				<discogs>263170</discogs>
+				<ma>8411</ma>
+				<mbid>0651f6f5-0806-4ca3-9893-0e4e854e0c8f</mbid>
+				<wd>Q75708</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="kbm">
+			<name>KBM</name>
+			<country region="North Holland">NL</country>
+			<refs>
+				<discogs>1405309</discogs>
+				<ma>127474</ma>
+				<mbid>e41120bc-33b2-4a4a-bb1e-fd91413b7eea</mbid>
+				<rym>kbm</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="kilt">
+			<name>Kilt</name>
+			<country region="Kiel, Schleswig-Holstein">DE</country>
+			<refs>
+				<discogs>2854414</discogs>
+				<fb>100063532718563</fb>
+				<ma>119208</ma>
+				<mbid>e0d966fd-4c8f-40a0-877f-1e220e07f20c</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="ldoh">
+			<name>Last Days of Humanity</name>
+			<country region="Noord-Brabant">NL</country>
+			<refs>
+				<bc>ldoh-official</bc>
+				<discogs>279405</discogs>
+				<fb>100044270867925</fb>
+				<mbid>eb230e0b-a0c9-4c56-8563-ddd2cbcf7249</mbid>
+				<rym>last-days-of-humanity</rym>
+				<wd>Q1806706</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="latexxx-command">
+			<name>Latexxx Command</name>
+			<country>MX</country>
+			<refs>
+				<discogs>3731683</discogs>
+				<fb>100023842614787</fb>
+			</refs>
+		</artist>
+		
+		<artist xml:id="ldrtfs">
+			<name>Like Drone Razors Through Flesh Sphere</name>
+			<country>ES</country>
+			<refs>
+				<bc>ldrtfs</bc>
+				<discogs>1364134</discogs>
+				<mbid>2146e6ff-2720-41c3-b98b-6d6d651e6671</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="lvcifyre">
+			<name>Lvcifyre</name>
+			<country region="London">GB</country>
+			<refs>
+				<bc>lvcifyre</bc>
+				<discogs>2806062</discogs>
+				<fb>100048414681007</fb>
+				<ma>3540284596</ma>
+				<mbid>83a4be11-dfa8-4a07-84d9-4ea22758c287</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="lymphatic-phlegm">
+			<name>Lymphatic Phlegm</name>
+			<country region="Curitiba, Paraná">BR</country>
+			<refs>
+				<discogs>279411</discogs>
+				<fb>100063558828329</fb>
+				<ma>3288</ma>
+				<mbid>edaada27-d2c6-401e-90f6-3c8fd4ada0b2</mbid>
+				<rym>lymphatic_phlegm</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="machetazo">
+			<name xml:lang="es">Machetazo</name>
+			<country region="A Coruña, Galicia">ES</country>
+			<refs>
+				<discogs>279400</discogs>
+				<fb>100057035157282</fb>
+				<ma>938</ma>
+				<mbid>26b65fe8-4493-4c66-9ce5-e1d28d80ca5e</mbid>
+				<rym>machetazo</rym>
+				<wd>Q6723504</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="maggot-shoes">
+			<name>Maggot Shoes</name>
+			<country region="Nuremberg, Bavaria">DE</country>
+			<refs>
+				<bc>maggotshoes</bc>
+				<discogs>1437515</discogs>
+				<fb>100063207009701</fb>
+				<ma>9914</ma>
+				<mbid>97a25ffa-d396-4ec2-8267-9a37e4107086</mbid>
+				<rym>maggot-shoes</rym>
+				<wd>Q1884045</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="malakat">
+			<name>Malakat</name>
+			<country>AU</country>
+			<refs>
+				<discogs>1998668</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="mania">
+			<name>Mania</name>
+			<country region="Waco, Texas">US</country>
+			<refs>
+				<bc>manianoise13</bc>
+				<discogs>241574</discogs>
+				<mbid>6b59b90c-18da-4e3c-a187-7ef61259bc27</mbid>
+				<rym>mania-3</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="masturbatory-dysfunction">
+			<name>Masturbatory Dysfunction</name>
+			<country region="Seattle, Washington">US</country>
+			<refs>
+				<discogs>1892334</discogs>
+				<mbid>f20c60fb-5ec6-43ee-b4ff-37d408ac18be</mbid>
+				<rym>masturbatory-dysfunction</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="material-sequence">
+			<name>Material Sequence</name>
+			<refs>
+				<discogs>2938436</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="mathrem">
+			<name>Mathrem</name>
+			<refs>
+				<discogs>5501572</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="melechesh">
+			<name>Melechesh</name>
+			<country>IL</country>
+			<refs>
+				<discogs>259818</discogs>
+				<fb>100044639700160</fb>
+				<ma>424</ma>
+				<mbid>bfd84c48-8659-4837-88b0-760eda171e5d</mbid>
+				<rym>melechesh</rym>
+				<wd>Q204480</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="menstrual-fistfuck">
+			<name>Menstrual Fistfuck</name>
+			<country>MX</country>
+			<refs>
+				<discogs>3731684</discogs>
+				<fb>100068127482541</fb>
+			</refs>
+		</artist>
+		
+		<artist xml:id="miguel-prado">
+			<name>Miguel Prado</name>
+			<refs>
+				<discogs>1547236</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="ntt">
+			<name>Navicon Torture Technologies</name>
+			<country region="New York">US</country>
+			<refs>
+				<bc>annihilvspowerelectronix</bc>
+				<discogs>82162</discogs>
+				<mbid>aec8d4c6-fde3-4383-886d-1ec769ec177f</mbid>
+				<rym>navicon-torture-technologies</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="necrocannibalistic-vomitorium">
+			<name>Necrocannibalistic Vomitorium</name>
+			<country region="Zaporizhia">UK</country>
+			<refs>
+				<bc>necrocannibalisticvomitorium</bc>
+				<discogs>700728</discogs>
+				<ma>3540461671</ma>
+				<mbid>2866f5fd-4f20-46e7-a99f-2aba553c1f7e</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="necrophagia">
+			<name>Necrophagia</name>
+			<country region="Wellsville, Ohio">US</country>
+			<refs>
+				<bc>necrophagia</bc>
+				<discogs>265910</discogs>
+				<fb>100047146270195</fb>
+				<ma>406</ma>
+				<mbid>f65a3677-c6dc-47e4-afd8-ec364f2e3035</mbid>
+				<wd>Q1752695</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="necrosodomy">
+			<name>Necrosodomy</name>
+			<country region="Szeged, Csongrád">HU</country>
+			<refs>
+				<discogs>1440757</discogs>
+				<ma>3540337741</ma>
+			</refs>
+		</artist>
+		
+		<artist xml:id="nekrasov">
+			<name>Nekrasov</name>
+			<country region="Melbourne, Victoria">AU</country>
+			<refs>
+				<bc>nekrasov</bc>
+				<discogs>1251635</discogs>
+				<ma>108715</ma>
+				<mbid>4522e67d-4897-42d8-8001-01b26909de76</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="nethtra">
+			<name>Nethtra</name>
+			<country>AU</country>
+			<refs>
+				<bc>nethtra</bc>
+				<discogs>5109922</discogs>
+				<ma>3540331080</ma>
+			</refs>
+		</artist>
+		
+		<artist xml:id="november-grief">
+			<name>November Grief</name>
+			<country region="Montréal, Quebec">CA</country>
+			<refs>
+				<bc>novembergrief</bc>
+				<discogs>903533</discogs>
+				<fb>100053053002402</fb>
+				<ma>30162</ma>
+				<mbid>881b8190-f0ca-437f-9a1d-9a87de23a4a2</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="ocean-of-zero">
+			<name>Ocean of Zero</name>
+			<country region="Sunshine Coast, Queensland">AU</country>
+			<refs>
+				<discogs>2993316</discogs>
+				<ma>3540313722</ma>
+				<mbid>d12a9a2e-2b7f-466e-be5f-bd0117a723f3</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="oceanus-procellarum">
+			<name xml:lang="la">Oceanus Procellarum</name>
+			<country>US</country>
+			<refs>
+				<discogs>5108970</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="one-armed-pancreatic-surgery">
+			<name>One-Armed Pancreatic Surgery</name>
+			<refs>
+				<discogs>3479279</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="operation-cleansweep">
+			<name>Operation Cleansweep</name>
+			<country>DE</country>
+			<refs>
+				<bc>singularcleansweepoperations</bc>
+				<discogs>101744</discogs>
+				<fb>100053987662640</fb>
+				<mbid>68c64ff8-c159-42b3-b005-47cd06f4c993</mbid>
+				<rym>operation_cleansweep</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="perpetual">
+			<name>Perpetual</name>
+			<country region="Sandakan, Sabah">MY</country>
+			<refs>
+				<bc>perpetualgc</bc>
+				<discogs>747563</discogs>
+				<fb>100063624854676</fb>
+				<ma>3540328058</ma>
+				<mbid>3e35e131-fc85-44da-86d2-167ee44986f2</mbid>
+				<rym>perpetual-6</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="polycystic-kidney-disease">
+			<name>Polycystic Kidney Disease</name>
+			<country>US</country>
+			<refs>
+				<discogs>3822207</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="porta-nigra">
+			<name xml:lang="it">Porta Nigra</name>
+			<country region="Koblenz, Rhineland-Palatinate">DE</country>
+			<refs>
+				<bc>portanigra</bc>
+				<discogs>2927621</discogs>
+				<fb>100027268287279</fb>
+				<ma>3540351587</ma>
+				<mbid>e9de33fc-0d60-4287-9c21-dc30185549f1</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="portal">
+			<name>Portal</name>
+			<country region="Brisbane, Queensland">AU</country>
+			<refs>
+				<bc>portalhorror</bc>
+				<discogs>996715</discogs>
+				<fb>100050650322306</fb>
+				<ma>5471</ma>
+				<mbid>d6a11848-db72-4737-89e0-3644da02fa2e</mbid>
+				<rym>portal-1</rym>
+				<wd>Q7231470</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="premature-ejaculation">
+			<name>Premature Ejaculation</name>
+			<country region="Pomona, California">US</country>
+			<refs>
+				<discogs>84010</discogs>
+				<mbid>cbd4f062-9e9b-4547-94e7-3701842c3ec6</mbid>
+				<rym>premature_ejaculation</rym>
+				<wd>Q7240229</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="protestant">
+			<name>Protestant</name>
+			<country region="Milwaukee, Wisconsin">US</country>
+			<refs>
+				<bc>protestant</bc>
+				<discogs>682739</discogs>
+				<ma>3540387741</ma>
+				<mbid>0e7de9eb-502c-46cf-8389-e2fc756cfca6</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="raison-detre">
+			<name xml:lang="fr">Raison d'Être</name>
+			<country>SE</country>
+			<refs>
+				<bc>raisondetre</bc>
+				<discogs>358878</discogs>
+				<fb>100039950837225</fb>
+				<mbid>1b7ef3e1-f3be-460d-ab5a-2ae848f1ab87</mbid>
+				<rym>raison_detre</rym>
+				<wd>Q3119760</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="rigor-mortis-in-a-frozen-body">
+			<name>Rigor Mortis in a Frozen Body</name>
+			<country>US</country>
+			<refs>
+				<discogs>4494734</discogs>
+				<mbid>63cbc190-4fe1-40ff-90af-a4221b1a9778</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="rose-croix">
+			<name xml:lang="fr">Rose Croix</name>
+			<refs>
+				<bc album="rose-croix">bravemysteries</bc>
+				<discogs>2547447</discogs>
+				<mbid>878b88c1-72c9-4f7a-bee7-09cfd1efc476</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="roskopp">
+			<name>Roskopp</name>
+			<country region="Denver, Colorado">US</country>
+			<refs>
+				<bc>roskopp303</bc>
+				<discogs>1495657</discogs>
+				<fb>100063598665826</fb>
+				<mbid>d7974f14-fd08-4e69-b82f-844f81d18f2f</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="ruhr-hunter">
+			<name>Ruhr Hunter</name>
+			<country>US</country>
+			<refs>
+				<discogs>222141</discogs>
+				<mbid>68beeef9-d8a7-424f-863b-a67ccab8f45f</mbid>
+				<rym>ruhr_hunter</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="samael">
+			<name>Samael</name>
+			<country region="Sion, Valais">CH</country>
+			<refs>
+				<bc>samaelsom</bc>
+				<discogs>233588</discogs>
+				<fb>100044146370627</fb>
+				<ma>31</ma>
+				<mbid>6a2ca1ac-408d-49b0-a7f6-cd608f2f684f</mbid>
+				<rym>samael</rym>
+				<wd>Q688874</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="saywhy">
+			<name>Saywhy?</name>
+			<country region="Pardubice">CZ</country>
+			<refs>
+				<discogs>870324</discogs>
+				<ma>3540342315</ma>
+				<mbid>a96859c8-8b09-4f7e-b68c-ded4d53d3e4f</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="scid">
+			<name>Scid</name>
+			<country>US</country>
+			<refs>
+				<discogs>4678300</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="sewer-goddess">
+			<name>Sewer Goddess</name>
+			<country region="Boston, Massachusetts">US</country>
+			<refs>
+				<discogs>829843</discogs>
+				<fb>100038005422527</fb>
+				<mbid>305b0069-6911-4d3e-81da-99aac44159ac</mbid>
+				<rym>sewer_goddess</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="sewn-shut">
+			<name>Sewn Shut</name>
+			<country region="Malmö">SE</country>
+			<refs>
+				<discogs>844782</discogs>
+				<ma>37890</ma>
+				<mbid>c1bdcc45-2c43-4151-8fd1-5883618ef9be</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="shamanic-death-trance">
+			<name>Shamanic Death Trance</name>
+			<country region="El-Mina, Tripoli">LB</country>
+			<refs>
+				<bc album="zubayn">osmanarabi</bc>
+				<discogs>1453756</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="skald-in-veum">
+			<name xml:lang="no">Skald in Veum</name>
+			<country>SE</country>
+			<refs>
+				<bc>skaldinveum</bc>
+				<discogs>4494254</discogs>
+				<fb>648165501906230</fb>
+				<ma>3540403112</ma>
+				<mbid>e072d78b-1588-49bf-8dd6-c822d86e7a08</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="slithis-revenge">
+			<name>Slithis' Revenge</name>
+			<country>US</country>
+			<refs>
+				<discogs>4871221</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="slowvent">
+			<name>Slowvent</name>
+			<country region="Madison, Wisconsin">US</country>
+			<refs>
+				<bc>slowvent</bc>
+				<discogs>244006</discogs>
+				<fb>100064187705251</fb>
+				<mbid>66c6aa17-ea83-45a5-9e84-a03ee86d1355</mbid>
+				<rym>slowvent</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="somatoparaphrenia">
+			<name>Somatoparaphrenia</name>
+			<country>US</country>
+			<refs>
+				<discogs>15551775</discogs>
+				<rym>somatoparaphrenia</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="ssri">
+			<name>SSRI</name>
+			<refs>
+				<discogs>2083069</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="standing-on-a-floor-of-bodies">
+			<name>Standing on a Floor of Bodies</name>
+			<country region="San Francisco, California">US</country>
+			<refs>
+				<bc>standingonafloorofbodies</bc>
+				<discogs>2524479</discogs>
+				<ma>3540351087</ma>
+				<mbid>b6bc65b2-3f41-43a7-920d-7d2ff3f2b8e1</mbid>
+				<rym>standing_on_a_floor_of_bodies</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="steel-hook-prostheses">
+			<name>Steel Hook Prostheses</name>
+			<country region="Arlington, Texas">US</country>
+			<refs>
+				<bc>steelhookprostheses</bc>
+				<discogs>98494</discogs>
+				<fb>209833198664</fb>
+				<mbid>0b7b915a-9f30-49c6-b2b2-5d661e33bc42</mbid>
+				<wd>Q116299132</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="suffering-mind">
+			<name>Suffering Mind</name>
+			<country region="Lublin">PL</country>
+			<refs>
+				<bc>sufferingmind</bc>
+				<discogs>1631706</discogs>
+				<fb>100063554708071</fb>
+				<ma>3540336791</ma>
+				<mbid>0c60d97e-0536-492f-9ffb-f62eab93df99</mbid>
+				<rym>suffering_mind</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="sunn-o">
+			<name>Sunn O)))</name>
+			<country region="Seattle, Washington">US</country>
+			<refs>
+				<bc>sunn</bc>
+				<discogs>218169</discogs>
+				<fb>100044206070809</fb>
+				<ma>612</ma>
+				<mbid>1d3da898-4fb4-4445-b704-cd7315e01789</mbid>
+				<rym>sunn-o</rym>
+				<wd>Q594855</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="sutekh-hexen">
+			<name>Sutekh Hexen</name>
+			<country region="Oakland, California">US</country>
+			<refs>
+				<bc>sutekhhexen</bc>
+				<discogs>1813243</discogs>
+				<fb>100026943397651</fb>
+				<ma>3540321344</ma>
+				<mbid>b607d087-e2ac-44bd-b61f-6823730c671f</mbid>
+				<rym>sutekh-hexen</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="synapscape">
+			<name>Synapscape</name>
+			<country region="Bielefeld">DE</country>
+			<refs>
+				<bc>ant-zen</bc>
+				<discogs>6605</discogs>
+				<fb>100053443278353</fb>
+				<mbid>12f66152-6104-47e7-b184-57261cbbaf37</mbid>
+				<rym>synapscape</rym>
+				<wd>Q2943135</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="teitanblood">
+			<name>Teitanblood</name>
+			<country region="Madrid">ES</country>
+			<refs>
+				<bc>teitanblood</bc>
+				<discogs>690012</discogs>
+				<fb>100063561288593</fb>
+				<ma>20242</ma>
+				<mbid>e63e2784-31af-437b-8174-31c27641b1e2</mbid>
+				<rym>teitanblood</rym>
+				<wd>Q1637602</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="terrorism">
+			<name>Terrorism</name>
+			<country region="Los Angeles, California">US</country>
+			<refs>
+				<discogs>1060050</discogs>
+				<ma>3540265176</ma>
+				<mbid>2516d8df-f678-4946-992f-e1d66435bbab</mbid>
+				<rym>terrorism</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="the-amenta">
+			<name>The Amenta</name>
+			<country region="Sydney, New South Wales">AU</country>
+			<refs>
+				<bc>theamenta1</bc>
+				<discogs>387345</discogs>
+				<fb>100050585015222</fb>
+				<ma>8115</ma>
+				<mbid>5a5f1cd1-410d-43a7-986b-968979478321</mbid>
+				<wd>Q2121729</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="the-beast-people">
+			<name>The Beast People</name>
+			<country>US</country>
+			<refs>
+				<discogs>220702</discogs>
+				<mbid>4397a474-50bd-4ed6-913c-11d30475399a</mbid>
+				<rym>the_beast_people</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="the-corpse-in-the-crawlspace">
+			<name>The Corpse in the Crawlspace</name>
+			<country>US</country>
+			<refs>
+				<discogs>3319925</discogs>
+				<ma>3540383113</ma>
+				<mbid>057f8198-6958-497a-97e2-7290b873decf</mbid>
+				<rym>thecorpseinthecrawlspace</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="the-happiest-place-on-earth">
+			<name>The Happiest Place on Earth</name>
+			<country>US</country>
+			<refs>
+				<discogs>1859950</discogs>
+				<mbid>9a315be7-0b1b-48aa-aa91-7d4e0c1aca5e</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="the-horn">
+			<name>The Horn</name>
+			<country region="Reservoir, Victoria">AU</country>
+			<refs>
+				<bc>ancientegyptianhorn</bc>
+				<discogs>4130903</discogs>
+				<fb>100065000104348</fb>
+				<ma>123708</ma>
+				<mbid>e90d87de-9b5f-4038-8ec1-31dde8591be0</mbid>
+				<rym>the_horn_f1</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="the-rita">
+			<name>The Rita</name>
+			<country region="Vancouver, British Columbia">CA</country>
+			<refs>
+				<bc>therita</bc>
+				<discogs>212478</discogs>
+				<mbid>b78c58d1-6410-4808-ab80-a8aef5c7c8f8</mbid>
+				<rym>the-rita</rym>
+				<wd>Q109678068</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="the-ritual-inclusion-of-code">
+			<name>The Ritual Inclusion of Code</name>
+			<country region="El-Mina, Tripoli">LB</country>
+			<refs>
+				<bc album="beta-wave-nemisis">osmanarabi</bc>
+				<discogs>2363455</discogs>
+				<mbid>389d832b-1924-481c-932d-dba9858d4366</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="theologian">
+			<name>Theologian</name>
+			<country region="Nyack, New York">US</country>
+			<refs>
+				<discogs>1384909</discogs>
+				<fb>100047494787760</fb>
+				<mbid>e8fa0a47-e557-4167-ba0d-73375ee50a99</mbid>
+				<rym>theologian</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="thymoma">
+			<name>Thymoma</name>
+			<country>US</country>
+			<refs>
+				<discogs>5572388</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="titadine">
+			<name>Titadine</name>
+			<country region="Lekeitio, Biscay, Basque Country">ES</country>
+			<refs>
+				<bc>titadine</bc>
+				<discogs>3393187</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="ugly-white-mother">
+			<name>Ugly White Mother</name>
+			<country>HU</country>
+			<refs>
+				<discogs>4544129</discogs>
+				<mbid>2f3ecb55-ef51-4f60-aae1-d36120b57fc9</mbid>
+				<rym>ugly-white-mother</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="undocumented-forensic-experiments">
+			<name>Undocumented Forensic Experiments</name>
+			<country>US</country>
+			<refs>
+				<discogs>4446488</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="unholy-grave">
+			<name>Unholy Grave</name>
+			<country region="Nagoya">JA</country>
+			<refs>
+				<bc>unholygrave</bc>
+				<discogs>254841</discogs>
+				<fb>149932681731495</fb>
+				<ma>2883</ma>
+				<mbid>70655023-dd2c-46d0-a6aa-6d0aa345c63b</mbid>
+				<rym>unholy_grave</rym>
+				<wd>Q2493708</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="urologist">
+			<name>Urologist</name>
+			<country>SE</country>
+			<refs>
+				<bc>urologist</bc>
+				<discogs>3485202</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="vaginal-surgery">
+			<name>Vaginal Surgery</name>
+			<country>US</country>
+			<refs>
+				<mbid>a4558a71-ddac-4790-8e70-a9ea6bbe1b1d</mbid>
+				<rym>vaginal-surgery</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="velvet-cacoon">
+			<name>Velvet Cacoon</name>
+			<country region="Portland, Oregon">US</country>
+			<refs>
+				<discogs>266610</discogs>
+				<ma>15954</ma>
+				<mbid>6ce530e8-6ccf-4e30-9f3a-cf259d79d78e</mbid>
+				<wd>Q2883082</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="vendrame">
+			<name>Vendrame</name>
+			<country>CH</country>
+			<refs>
+				<discogs>621363</discogs>
+				<mbid>6af197f3-6069-4e4b-88f9-bb181cb060f2</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="vivenza">
+			<name>Vivenza</name>
+			<country>FR</country>
+			<refs>
+				<discogs>83223</discogs>
+				<mbid>83710ed3-4016-4f89-9c8d-6b375f83902e</mbid>
+				<rym>vivenza</rym>
+				<wd>Q3167510</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="void">
+			<name>Vo)))id</name>
+			<country>IT</country>
+			<refs>
+				<discogs>1209862</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="vomir">
+			<name xml:lang="fr">Vomir</name>
+			<country>FR</country>
+			<refs>
+				<bc>vomir</bc>
+				<discogs>672102</discogs>
+				<mbid>f35131a7-a886-4c53-9969-f0668853b200</mbid>
+				<wd>Q74703053</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="wear-and-tear">
+			<name>Wear and Tear</name>
+			<country>IT</country>
+			<refs>
+				<discogs>2574909</discogs>
+			</refs>
+		</artist>
+		
+		<artist xml:id="wheelchair-x4">
+			<name>Wheelchair Wheelchair Wheelchair Wheelchair</name>
+			<country region="Glasgow, Scotland">GB</country>
+			<refs>
+				<bc>wheelchairwheelchairwheelchairwheelchair</bc>
+				<discogs>1370899</discogs>
+				<fb>100063018049458</fb>
+				<ma>3540401583</ma>
+				<mbid>9acf498b-5863-455b-b8e1-9d54a1b5313f</mbid>
+				<rym>wheelchair_wheelchair_wheelchair_wheelchair</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="wittr">
+			<name>Wolves in the Throne Room</name>
+			<country region="Olympia, Washington">US</country>
+			<refs>
+				<bc>wolvesinthethroneroom</bc>
+				<discogs>390027</discogs>
+				<fb>100044608951575</fb>
+				<ma>35741</ma>
+				<mbid>e9452446-7702-4853-96ce-5dfe6748d3fb</mbid>
+				<rym>wolves-in-the-throne-room</rym>
+				<wd>Q763887</wd>
+			</refs>
+		</artist>
+		
+		<artist xml:id="wraiths">
+			<name>Wraiths</name>
+			<country region="Edinburgh, Scotland">GB</country>
+			<refs>
+				<discogs>767327</discogs>
+				<mbid>2899bc64-923d-4bbf-9788-7c32f09dc817</mbid>
+				<rym>wraiths</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="xasthur">
+			<name>Xasthur</name>
+			<country>SG</country>
+			<refs>
+				<bc album="hidden-lore">foadrecords</bc>
+				<discogs>5109640</discogs>
+				<ma>28956</ma>
+				<mbid>af0fe6b9-dcb1-42f2-82c8-3ea43286d356</mbid>
+				<rym>xasthur_f1</rym>
+			</refs>
+		</artist>
+		
+		<artist xml:id="lutavierje">
+			<name xml:lang="be">Лютавер'е</name>
+			<country region="Minsk">BY</country>
+			<refs>
+				<bc>lutaverje</bc>
+				<discogs>3723381</discogs>
+				<fb>100063719191567</fb>
+				<ma>3540319199</ma>
+				<mbid>b743421e-5b67-43c9-b74c-ed4ef1e72572</mbid>
+			</refs>
+		</artist>
+		
+		<artist xml:id="yar">
+			<name xml:lang="be">Яр</name>
+			<country>BY</country>
+			<refs>
+				<discogs>2185384</discogs>
+				<ma>3540274793</ma>
+				<mbid>0bf71c16-817f-4237-9168-531f65f75805</mbid>
+			</refs>
+		</artist>
+	</artists>
+	
+	<items>
+		<item>
+			<release>
+				<artist ref="3xa"/>
+				<name>Mucopurulent Epysiliamsa</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>7634738</discogs>
+				</refs>
+			</release>
+			<price>7</price>
+		</item>
+
+		<item>
+			<release>
+				<artist>Acolyte</artist>
+				<name>The Portal of Xerxes</name>
+				<format>Cassette</format>
+			</release>
+			<price>6</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="actuary"/>
+					<artist ref="aderlating"/>
+				</artists>
+				<name>Curses and Conspiracies</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>3694725</discogs>
+				</refs>
+			</release>
+			<price>6</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="aderlating"/>
+				<name>The Golden Mass</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>3692707</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="alien-possession"/>
+				<name>Demo</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>399497</ma>
+				</refs>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="ancient-niggurath"/>
+					<artist ref="nethtra"/>
+				</artists>
+				<name xml:lang="fr">Mémoires effroyables</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>352576</ma>
+				</refs>
+				<note>#21/100</note>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="antaeus"/>
+				<name>Nihil Khaos - Live '99</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>10561</ma>
+				</refs>
+			</release>
+			<price>20</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="antaeus"/>
+				<name>Satanik Audio Violence Helloween 2000</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>43281</ma>
+				</refs>
+				<note>#4/100</note>
+			</release>
+			<price>40</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="arcanum-inferi"/>
+				<name>Ars Hermetica</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>547459</ma>
+				</refs>
+				<note>#5/99</note>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="caffa"/>
+				<name>Day of Disease</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>383360</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="carpathian-forest"/>
+				<name>Bloodlust and Perversion</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>7294</ma>
+				</refs>
+				<copies>2</copies>
+			</release>
+			<price>35</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="circle-of-salt"/>
+				<name>Suffer the Cold</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>520914</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="cold-frozen-grave"/>
+				<name>Frigid Stormwinds</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>373711</ma>
+				</refs>
+				<note>#9/20</note>
+			</release>
+			<price>6</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="crown-of-asteria"/>
+				<name>Demo MMXIII</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>425147</ma>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="einsturzende-neubauten"/>
+				<name xml:lang="de">Architektur &amp; Geißelnahme (Spurensicherung 27·11·82 SO 36)</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>6532155</discogs>
+				</refs>
+			</release>
+			<price>50</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="eko-eko-azarak"/>
+				<name>Eko Eko Azarak</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>8671274</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="esthesis"/>
+				<name>Human Infection</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>11251425</discogs>
+					<ma>520610</ma>
+				</refs>
+				<note>#3/50</note>
+			</release>
+			<price>15</price>
+		</item>
+
+		<item>
+			<release>
+				<artists>
+					<artist ref="eternal-majesty"/>
+					<artist ref="antaeus"/>
+				</artists>
+				<name>Split</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>21273</ma>
+				</refs>
+			</release>
+			<price>25</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="father-befouled"/>
+				<name xml:lang="la">Obscvrvs Nex Cvltvs</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>491020</ma>
+				</refs>
+				<note>#88/125</note>
+			</release>
+			<price>10</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="frater-ximenes-is-dead"/>
+				<name>Demo II</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>387151</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="gravecrusher"/>
+				<name>Mutilation Ritual</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>355660</ma>
+				</refs>
+				<note>#71/99</note>
+			</release>
+			<price>8</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name xml:lang="hu">Atya, Fiú, Szentlélek</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>5861940</discogs>
+				</refs>
+				<copies>2</copies>
+			</release>
+			<price>5</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name xml:lang="hu">Buzeráns Értékek Alatt</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>5120017</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name xml:lang="hu">Csövesek</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>6765454</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name xml:lang="hu">Eucharisztikus Faszlyukbaszás</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>4202360</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name xml:lang="hu">Férfiak, Nők, és Gyerekek</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>5024112</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name>Freedom Destroyer</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>3723152</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name>Haptephobia</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>2871812</discogs>
+				</refs>
+				<note>#7/50</note>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name xml:lang="hu">Könnyeztetőgép</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>6415102</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name xml:lang="hu">Magyarkorcs</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>5515947</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name xml:lang="hu">Mint Egy Nemzőképtelen Tiszavirág</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>4947351</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name>Ward</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>5431744</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+
+		<item>
+			<release>
+				<artists>
+					<artist ref="halalnihil"/>
+					<artist ref="vomir"/>
+				</artists>
+				<names>
+					<name xml:lang="hu">Elektromos Acél Zuhany</name>
+					<name xml:lang="en">Untitled</name>
+				</names>
+				<format>Cassette</format>
+				<refs>
+					<discogs>5366067</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="in-the-company-of-serpents"/>
+				<name>In the Company of Serpents</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>336746</ma>
+				</refs>
+			</release>
+			<price>16</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ix"/>
+				<name>Demo</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>7933044</discogs>
+				</refs>
+			</release>
+			<price>15</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ldrtfs"/>
+				<name>Mankind in Amnesia II</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>2894666</discogs>
+				</refs>
+			</release>
+			<price>16</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="mania"/>
+					<artist ref="halalnihil"/>
+				</artists>
+				<name>Split</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>6217056</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="material-sequence"/>
+				<name>Residual Grid</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>3901156</discogs>
+				</refs>
+			</release>
+			<price>30</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="mathrem"/>
+				<name>Automatic Noise</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>22316377</discogs>
+				</refs>
+			</release>
+			<price>6</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="mathrem"/>
+					<artist ref="carlos-villena"/>
+				</artists>
+				<name>Split</name>
+				<format>Cassette</format>
+			</release>
+			<price>6</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ntt"/>
+				<name>Bottomfeeder</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>1847019</discogs>
+				</refs>
+			</release>
+			<price>20</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="necrosodomy"/>
+				<name>Eternal Darkness</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>323725</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="november-grief"/>
+				<name>Evil-Ution</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>183474</ma>
+				</refs>
+			</release>
+			<price>300</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ocean-of-zero"/>
+				<name>Shun the Light</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>322729</ma>
+				</refs>
+				<note>#26/150</note>
+			</release>
+			<price>5</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="perpetual"/>
+				<name>What a Cruel World</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>1159508</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="sewer-goddess"/>
+				<name>The Dejection Veil</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>2003588</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="slithis-revenge"/>
+				<name>Harbour Monster</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>28166356</discogs>
+				</refs>
+				<note>#25/25</note>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ssri"/>
+				<name>Vasoconstriction</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>5487184</discogs>
+				</refs>
+				<copies>2</copies>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="the-rita"/>
+					<artist ref="masturbatory-dysfunction"/>
+				</artists>
+				<name>Nylon Source Manipulation (The Readings)</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>6493874</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="theologian"/>
+				<name>Nonextant</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>17427229</discogs>
+				</refs>
+			</release>
+			<price>45</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ugly-white-mother"/>
+				<name>Interracial Quadropenetrationist</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>7324758</discogs>
+				</refs>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="vendrame"/>
+				<name>Vendrame</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>2427340</discogs>
+					<mbid>ed8c24a0-529d-4568-944f-526114902f40</mbid>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="vivenza"/>
+				<name xml:lang="fr">Essentialité Métallique</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>188688</discogs>
+				</refs>
+			</release>
+			<price>45</price>
+			<note>Includes a brown envelope of additional (printed) material</note>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="wear-and-tear"/>
+				<name>Vacuum</name>
+				<format>Cassette</format>
+				<refs>
+					<discogs>8671228</discogs>
+				</refs>
+				<note>#8/100</note>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="xasthur"/>
+				<name>Hidden Lore</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>155839</ma>
+				</refs>
+			</release>
+			<price>60</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="yar"/>
+					<artist ref="lutavierje"/>
+				</artists>
+				<name xml:lang="be">Шчодры Вечор · Рось</name>
+				<format>Cassette</format>
+				<refs>
+					<ma>293777</ma>
+				</refs>
+				<note>#258/500</note>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="16-bitch-pile-up"/>
+				<name>Bury Me Deep</name>
+				<format>CD</format>
+				<refs>
+					<discogs>914683</discogs>
+					<mbid>b4728d24-106b-46df-b06f-fc1e736cf26a</mbid>
+					<rym>bury-me-deep</rym>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="3xa"/>
+				<name>Astrocytomic Oligodendrollioma</name>
+				<format>CD</format>
+				<refs>
+					<discogs>7060666</discogs>
+				</refs>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="abjection-ritual"/>
+				<name>Futility Rites</name>
+				<format>CD</format>
+				<refs>
+					<discogs>7493138</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="abjection-ritual"/>
+				<name>Psychiatric Failures</name>
+				<format>CD</format>
+				<refs>
+					<discogs>6647299</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="aderlating"/>
+				<name>Hell Follows</name>
+				<format>CD</format>
+				<refs>
+					<discogs>7885704</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="aevangelist"/>
+				<name>Dream an Evil Dream</name>
+				<format>CD</format>
+				<refs>
+					<ma>539781</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="aevangelist"/>
+				<name>Enthrall to the Void of Bliss</name>
+				<format>CD</format>
+				<refs>
+					<ma>530132</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="aevangelist"/>
+				<name>Omen ex Simulacra</name>
+				<format>CD</format>
+				<refs>
+					<ma>383719</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="aevangelist"/>
+				<name>To the Dream Plateau of Hideous Revelation</name>
+				<format>CD</format>
+				<refs>
+					<ma>382731</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="aevangelist"/>
+				<name>Writhes in the Murk</name>
+				<format>CD</format>
+				<refs>
+					<ma>447691</ma>
+				</refs>
+			</release>
+			<price>7</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="akhlys"/>
+				<name>The Dreaming I</name>
+				<format>CD</format>
+				<refs>
+					<ma>505999</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="ana-venus"/>
+					<artist ref="halalnihil"/>
+				</artists>
+				<name>Hibernation</name>
+				<format>CD</format>
+				<refs>
+					<discogs>4700688</discogs>
+				</refs>
+			</release>
+			<price>7</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="anenzephalia"/>
+				<name>Ephemeral Dawn</name>
+				<format>CD</format>
+				<refs>
+					<discogs>182372</discogs>
+				</refs>
+				<note>#492/750</note>
+			</release>
+			<price>13</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="anenzephalia"/>
+				<name>Instrumentalities (Singles Collection 1991-2008)</name>
+				<format>CD</format>
+				<refs>
+					<discogs>6286274</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="antaeus"/>
+				<name>Blood Libels</name>
+				<format>CD</format>
+				<refs>
+					<ma>126448</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="antaeus"/>
+				<name>Condemnation</name>
+				<format>CD</format>
+				<refs>
+					<ma>609406</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="antaeus"/>
+				<name>Cut Your Flesh and Worship Satan</name>
+				<version main="true">
+					<name>Original release</name>
+					<format>CD</format>
+					<refs>
+						<ma>8228</ma>
+					</refs>
+				</version>
+				<version>
+					<name>Digipak</name>
+					<format>CD</format>
+					<refs>
+						<ma>415346</ma>
+					</refs>
+				</version>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="antaeus"/>
+				<name xml:lang="la">De Principii Evangelikum</name>
+				<format>CD</format>
+				<refs>
+					<ma>11102</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="antaeus"/>
+				<name>Rekordin 2000 - 1</name>
+				<format>CD</format>
+				<refs>
+					<ma>21037</ma>
+				</refs>
+			</release>
+			<price>30</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="atrax-morgue"/>
+				<name>Collection in Formaldeide</name>
+				<format>CD</format>
+				<refs>
+					<discogs>897327</discogs>
+				</refs>
+			</release>
+			<price>30</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="atrax-morgue"/>
+				<name>No More</name>
+				<format>CD</format>
+				<refs>
+					<discogs>487193</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="belphegor"/>
+				<name>Conjuring the Dead</name>
+				<format>CD</format>
+				<refs>
+					<ma>410912</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="bowel-rot"/>
+				<name>All You Need Is Hate</name>
+				<format>CD</format>
+				<refs>
+					<discogs>5270108</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="branched-vein-sarcoma"/>
+				<name>Unbearable Disgorgement of the Dislodged Indigestible Bite of Ghoulashed Phlegmlike Grey Matter</name>
+				<format>CD</format>
+				<refs>
+					<discogs>7101914</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="brighter-death-now"/>
+				<name>Kamikaze Kabaret</name>
+				<format>CD</format>
+				<refs>
+					<discogs>533192</discogs>
+				</refs>
+				<note>Digipak</note>
+			</release>
+			<price>13</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="brighter-death-now"/>
+				<name>May All be Dead</name>
+				<format>CD</format>
+				<refs>
+					<discogs>64276</discogs>
+				</refs>
+			</release>
+			<price>20</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="brighter-death-now"/>
+				<name>Obsessis</name>
+				<format>CD</format>
+				<refs>
+					<discogs>97400</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="coupo"/>
+				<name>Proliferial Melanocytic Shock of Recurring Tumorigenic Lesion of Uncertain Pulmonary Potentian and Malignant Atypical Significance</name>
+				<format>CD</format>
+				<refs>
+					<discogs>8088196</discogs>
+				</refs>
+			</release>
+			<price>7</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="caligula031"/>
+					<artist ref="halalnihil"/>
+				</artists>
+				<name>Split CD-R</name>
+				<format>CD</format>
+				<refs>
+					<discogs>6418220</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="cancer-makhluk"/>
+				<name>The Threshold of Anti/Praxis</name>
+				<format>CD</format>
+				<refs>
+					<discogs>8669525</discogs>
+				</refs>
+			</release>
+			<price>15</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="dehydrated-tissues"/>
+				<name>Gore Junkie</name>
+				<format>CD</format>
+				<refs>
+					<discogs>3786296</discogs>
+				</refs>
+			</release>
+			<price>8</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="dehydrated-tissues"/>
+					<artist ref="latexxx-command"/>
+					<artist ref="menstrual-fistfuck"/>
+				</artists>
+				<name>The Most Disgusting Three-Way You'll Ever Be Involved In...!!!</name>
+				<format>CD</format>
+				<refs>
+					<discogs>5484341</discogs>
+				</refs>
+			</release>
+			<price>8</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="drudkh"/>
+				<names format="%1 (%2)">
+					<name xml:lang="uk">Пригорща зірок</name>
+					<name xml:lang="en">Handful of Stars</name>
+				</names>
+				<format>CD</format>
+				<refs>
+					<ma>412681</ma>
+				</refs>
+				<note>Boxed set</note>
+			</release>
+			<price>157.6</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="enterorrhagia"/>
+				<name>Gorey Human Fillet</name>
+				<format>CD</format>
+				<refs>
+					<discogs>7970168</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="enterorrhagia"/>
+				<name>Ripped Apart by a Pack of Wolves</name>
+				<format>CD</format>
+				<refs>
+					<discogs>7970290</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="enterorrhagia"/>
+					<artist ref="boneache"/>
+				</artists>
+				<name>Split CD 2012</name>
+				<format>CD</format>
+				<refs>
+					<discogs>8083793</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="enterorrhagia"/>
+					<artist ref="urologist"/>
+				</artists>
+				<name>Split 2013</name>
+				<format>CD</format>
+				<refs>
+					<discogs>8582121</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="erotophonophilia"/>
+				<name>Emetophilic Trauma</name>
+				<format>CD</format>
+				<refs>
+					<discogs>31891597</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="forest-of-impaled"/>
+				<name>Forward the Spears</name>
+				<format>CD</format>
+				<refs>
+					<ma>29744</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="forest-of-impaled"/>
+				<name xml:lang="la">Mortis Dei</name>
+				<format>CD</format>
+				<refs>
+					<ma>14319</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="francis-dhomont"/>
+				<name xml:lang="fr">Cycle de l'Errance</name>
+				<version main="true">
+					<name>Jewel-case</name>
+					<format>CD</format>
+					<refs>
+						<discogs>1745518</discogs>
+					</refs>
+				</version>
+				<version>
+					<name>Digipak</name>
+					<format>CD</format>
+					<refs>
+						<discogs>233690</discogs>
+					</refs>
+				</version>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="gelsomina"/>
+				<name>Disease with a Purpose</name>
+				<format>CD</format>
+				<refs>
+					<discogs>593049</discogs>
+				</refs>
+			</release>
+			<price>7</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="gelsomina"/>
+				<name>Pythogenetics: Collection</name>
+				<format>CD</format>
+				<refs>
+					<discogs>1658077</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="government-alpha"/>
+					<artist ref="halalnihil"/>
+				</artists>
+				<name>Inhuman Culture of Psychoacoustics</name>
+				<format>CD</format>
+				<refs>
+					<discogs>4773661</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="gruntsplatter"/>
+				<name>Chronicling the Famine</name>
+				<format>CD</format>
+				<refs>
+					<discogs>140678</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="gruntsplatter"/>
+				<name>Pest Maiden</name>
+				<format>CD</format>
+				<refs>
+					<discogs>414869</discogs>
+				</refs>
+			</release>
+			<price>6.5</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="gruntsplatter"/>
+				<name>The Aberrant Laboratory</name>
+				<format>CD</format>
+				<refs>
+					<discogs>628204</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="gruntsplatter"/>
+				<name>The Death Fires</name>
+				<format>CD</format>
+				<refs>
+					<discogs>92275</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="gruntsplatter"/>
+				<name>The Eulogists Assembly</name>
+				<format>CD</format>
+				<refs>
+					<discogs>444002</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="gruntsplatter"/>
+					<artist ref="slowvent"/>
+				</artists>
+				<name>Split Release</name>
+				<format>CD</format>
+				<refs>
+					<discogs>496405</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="grylliphagia"/>
+				<name>The Ultimate Cricket Chirping</name>
+				<format>CD</format>
+				<refs>
+					<discogs>4246623</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="gulaggh"/>
+				<name>Vorkuta</name>
+				<format>CD</format>
+				<refs>
+					<discogs>1783171</discogs>
+				</refs>
+				<note>#55/300</note>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name>Asphyxia Dream</name>
+				<format>CD</format>
+				<refs>
+					<discogs>3142743</discogs>
+				</refs>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name>Collection of Utter Disgust</name>
+				<format>CD</format>
+				<refs>
+					<discogs>5669220</discogs>
+				</refs>
+			</release>
+			<price>7</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name>Empathy Devourer</name>
+				<format>CD</format>
+				<refs>
+					<discogs>3517167</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name xml:lang="hu">Fogyatékos Megerőszakolása</name>
+				<format>CD</format>
+				<refs>
+					<discogs>3381160</discogs>
+				</refs>
+				<note>#7/30</note>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name>Global Uterus Annihilation</name>
+				<format>CD</format>
+				<refs>
+					<discogs>3587319</discogs>
+				</refs>
+				<note>#2/50</note>
+			</release>
+			<price>5</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name xml:lang="hu">Gyermekartatlanság?</name>
+				<format>CD</format>
+				<refs>
+					<discogs>6189731</discogs>
+				</refs>
+			</release>
+			<price>2</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name>Haptephobia</name>
+				<format>CD</format>
+				<refs>
+					<discogs>3323004</discogs>
+				</refs>
+				<note>#7/30</note>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name xml:lang="hu">Megbaszni Minden Rákos Embert A Földön</name>
+				<format>CD</format>
+				<refs>
+					<discogs>4083053</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name>Pyrocumulonimbus</name>
+				<format>CD</format>
+				<refs>
+					<discogs>4281710</discogs>
+				</refs>
+				<note>#42/100</note>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name>Rip Out the Womb from Pregnant Dogs</name>
+				<format>CD</format>
+				<refs>
+					<discogs>5024087</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halalnihil"/>
+				<name>Zealot Mercenary</name>
+				<format>CD</format>
+				<refs>
+					<discogs>3815977</discogs>
+				</refs>
+				<note>#5/66</note>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halo-manash"/>
+				<name>Se Its En</name>
+				<format>CD</format>
+				<refs>
+					<discogs>6114822</discogs>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="halo-manash"/>
+				<name xml:lang="fi">Syoma</name>
+				<format>CD</format>
+				<refs>
+					<discogs>340648</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="haraam"/>
+				<names format="%1">
+					<name xml:lang="en">Harvest</name>
+					<name xml:lang="ar">حصاد</name>
+				</names>
+				<format>CD</format>
+				<refs>
+					<bc album="--4">haraam-noise</bc>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="hepatobiliary-tubelike-structures-deficiency"/>
+				<name>Necrotizing Bladder Fermentation Extinuates into Pseudocysticmatosis</name>
+				<format>CD</format>
+				<refs>
+					<discogs>7866947</discogs>
+				</refs>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="hydrocephalus"/>
+				<name>Asclepios - The Father of Modern Medicine</name>
+				<format>CD</format>
+				<refs>
+					<discogs>7960494</discogs>
+				</refs>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="hydrocephalus"/>
+				<name>The Never Ceasing Passion of a Pathologist</name>
+				<format>CD</format>
+				<refs>
+					<discogs>7960525</discogs>
+				</refs>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="hydrocephalus"/>
+				<name>Untitled</name>
+				<format>CD</format>
+				<refs>
+					<mbid>063c66b2-cf9a-42f1-8b9f-4fe5929ae4e2</mbid>
+				</refs>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="hydrocephalus"/>
+					<artist ref="coupo"/>
+				</artists>
+				<name>Split 2013</name>
+				<format>CD</format>
+				<refs>
+					<discogs>7987926</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="hydropneumothorax"/>
+					<artist ref="bradymenorrhoea"/>
+				</artists>
+				<name>Split</name>
+				<format>CD</format>
+				<refs>
+					<discogs>8382058</discogs>
+				</refs>
+			</release>
+			<price>6</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="impulse-kontrol"/>
+				<name>Demo 2009</name>
+				<format>CD</format>
+				<refs>
+					<discogs>8670082</discogs>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="infester"/>
+					<artist ref="one-armed-pancreatic-surgery"/>
+				</artists>
+				<names>
+					<name>Human Fantasy of Grotesque Pathological Theatre</name>
+					<name>…As Your Frail Structure Surrenders to the Throes of Anatomy…</name>
+				</names>
+				<format>CD</format>
+				<refs>
+					<ma>1066463</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="iugula-thor"/>
+					<artist ref="cronaca-nera"/>
+				</artists>
+				<name>Abraxas Mortuary</name>
+				<format>CD</format>
+				<refs>
+					<discogs>6447531</discogs>
+				</refs>
+			</release>
+			<price>15.76</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="jhk"/>
+				<name>Slab Electronics</name>
+				<format>CD</format>
+				<refs>
+					<discogs>14266844</discogs>
+				</refs>
+			</release>
+			<price>30</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="kbm"/>
+				<name>Gnosis</name>
+				<format>CD</format>
+				<refs>
+					<ma>197827</ma>
+				</refs>
+				<note>#10/100</note>
+			</release>
+			<price>6</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="kbm"/>
+				<name>Katharos</name>
+				<format>CD</format>
+				<refs>
+					<ma>286941</ma>
+				</refs>
+				<note>#18/50</note>
+			</release>
+			<price>6</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ldoh"/>
+				<name>Horrific Compositions of Decomposition</name>
+				<format>CD</format>
+				<refs>
+					<discogs>17706586</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="ldrtfs"/>
+				<name>Alone with God</name>
+				<format>CD</format>
+				<refs>
+					<discogs>2880483</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ldrtfs"/>
+				<name>At the Threshold of Knowledge</name>
+				<format>CD</format>
+				<refs>
+					<discogs>4992129</discogs>
+				</refs>
+				<note>#21/77</note>
+			</release>
+			<price>8</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ldrtfs"/>
+				<name>D.R.O.N.E.R.E.X.I.A.</name>
+				<format>CD</format>
+				<refs>
+					<discogs>2772520</discogs>
+				</refs>
+			</release>
+			<price>40</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ldrtfs"/>
+				<name xml:lang="la">Ex Nihilo Nihil, Ad Nihilum Nihil Posse Reverti</name>
+				<format>CD</format>
+				<refs>
+					<discogs>1649092</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ldrtfs"/>
+				<name>Life-Death Continuum</name>
+				<format>CD</format>
+				<refs>
+					<discogs>21095173</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ldrtfs"/>
+				<name>Like Drone Razors Through Flesh Sphere</name>
+				<format>CD</format>
+				<refs>
+					<discogs>4886943</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ldrtfs"/>
+				<name>Seismik Electrik Magick</name>
+				<format>CD</format>
+				<refs>
+					<discogs>5543432</discogs>
+				</refs>
+				<note>Digipak; regular edition</note>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="ldrtfs"/>
+					<artist ref="gate-to-void"/>
+					<artist ref="aeon-nought"/>
+				</artists>
+				<name>Those Who Dwell Beyond</name>
+				<format>CD</format>
+				<refs>
+					<discogs>2164308</discogs>
+				</refs>
+			</release>
+			<price>6</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="ldrtfs"/>
+					<artist ref="miguel-prado"/>
+				</artists>
+				<name xml:lang="la">Aurum Nostrum Non Est Aurum Vulgi</name>
+				<format>CD</format>
+				<refs>
+					<discogs>2162779</discogs>
+				</refs>
+			</release>
+			<price>6</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="lvcifyre"/>
+				<name>The Broken Seal</name>
+				<format>CD</format>
+				<refs>
+					<ma>979236</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="lvcifyre"/>
+				<name>The Calling Depths</name>
+				<format>CD</format>
+				<refs>
+					<ma>414261</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="malakat"/>
+				<name>Collected Tracks / Collage</name>
+				<format>CD</format>
+				<refs>
+					<discogs>3438510</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="melechesh"/>
+				<name>As Jerusalem Burns… Al'Intisar</name>
+				<version main="true">
+					<name>Original</name>
+					<format>CD</format>
+					<refs>
+						<ma>1946</ma>
+					</refs>
+					<price>40</price>
+				</version>
+				<version>
+					<name>Digipak</name>
+					<format>CD</format>
+					<refs>
+						<ma>413514</ma>
+					</refs>
+					<price>10</price>
+				</version>
+			</release>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="melechesh"/>
+				<name>Emissaries</name>
+				<format>CD</format>
+				<refs>
+					<ma>540371</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="melechesh"/>
+				<name>Enki</name>
+				<format>CD</format>
+				<refs>
+					<ma>585226</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="melechesh"/>
+				<name>The Epigenesis</name>
+				<format>CD</format>
+				<refs>
+					<ma>280288</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ntt"/>
+				<name>All I Want Is to Hear the Sound of My Own Heart Stopping</name>
+				<format>CD</format>
+				<refs>
+					<discogs>486074</discogs>
+				</refs>
+				<note>#131/150</note>
+			</release>
+			<price>15</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ntt"/>
+				<name>Dripping with the Power of Her Flesh</name>
+				<format>CD</format>
+				<refs>
+					<discogs>268454</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ntt"/>
+				<name>I Will Not Be Possessed</name>
+				<format>CD</format>
+				<refs>
+					<discogs>605573</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ntt"/>
+				<name>Pure Skin</name>
+				<format>CD</format>
+				<refs>
+					<discogs>681710</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ntt"/>
+				<name>Scenes from the Next Millennium</name>
+				<format>CD</format>
+				<refs>
+					<discogs>318097</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ntt"/>
+				<name>The Arrow and the Wound</name>
+				<format>CD</format>
+				<refs>
+					<discogs>357918</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ntt"/>
+				<name>The Gospels of the Gash</name>
+				<format>CD</format>
+				<refs>
+					<discogs>1677855</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ntt"/>
+				<name>The Lie of Romance</name>
+				<format>CD</format>
+				<refs>
+					<discogs>605570</discogs>
+				</refs>
+			</release>
+			<price>20</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ntt"/>
+				<name>There's a Price to Be Paid for Dreaming</name>
+				<format>CD</format>
+				<refs>
+					<discogs>781038</discogs>
+				</refs>
+			</release>
+			<price>50</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ntt"/>
+				<name>VTERVS</name>
+				<format>CD</format>
+				<refs>
+					<discogs>1256427</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ntt"/>
+				<name>Your Suffering Will Be Legendary</name>
+				<format>CD</format>
+				<refs>
+					<discogs>4297853</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="oceanus-procellarum"/>
+					<artist ref="void"/>
+				</artists>
+				<name xml:lang="la">Perpetuus Nubilus</name>
+				<format>CD</format>
+				<refs>
+					<discogs>8669664</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="perpetual"/>
+				<name>What a Cruel World</name>
+				<format>CD</format>
+				<refs>
+					<ma>1159507</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="polycystic-kidney-disease"/>
+				<name>Promo 2013</name>
+				<format>CD</format>
+				<refs>
+					<discogs>5682661</discogs>
+				</refs>
+			</release>
+			<price>3</price>
+		</item>
+	
+		<item>
+			<release>
+				<artist ref="premature-ejaculation"/>
+				<name>6</name>
+				<refs>
+					<discogs type="master">319191</discogs>
+				</refs>
+				<version>
+					<name>original</name>
+					<format>CD</format>
+					<refs>
+						<discogs>2530203</discogs>
+					</refs>
+					<price>25</price>
+				</version>
+				<version>
+					<name>reissue</name>
+					<format>CD</format>
+					<refs>
+						<discogs>2768095</discogs>
+					</refs>
+					<price>10</price>
+				</version>
+			</release>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="premature-ejaculation"/>
+				<name>A Little Hard to Swallow</name>
+				<format>CD</format>
+				<refs>
+					<discogs>2257795</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="premature-ejaculation"/>
+				<name>Anesthesia</name>
+				<format>CD</format>
+				<refs>
+					<discogs>299626</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="premature-ejaculation"/>
+				<name>Attempts at 7</name>
+				<format>CD</format>
+				<refs>
+					<discogs>2832213</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="premature-ejaculation"/>
+				<name>Dead Whorse Riddles</name>
+				<format>CD</format>
+				<refs>
+					<discogs>3148206</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="premature-ejaculation"/>
+				<name>Death Cultures I</name>
+				<format>CD</format>
+				<refs>
+					<discogs>5629569</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="premature-ejaculation"/>
+				<name>Necessary Discomforts</name>
+				<format>CD</format>
+				<refs>
+					<discogs>247802</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="premature-ejaculation"/>
+				<name>Part 1</name>
+				<format>CD</format>
+				<refs>
+					<discogs>2125025</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="premature-ejaculation"/>
+				<name>Part 2</name>
+				<format>CD</format>
+				<refs>
+					<discogs>2125037</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="premature-ejaculation"/>
+				<name>Rise</name>
+				<format>CD</format>
+				<refs>
+					<discogs>2561718</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="raison-detre"/>
+				<name>Requiem for Abandoned Souls (expanded edition)</name>
+				<format>CD</format>
+				<refs>
+					<discogs>5805678</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="rigor-mortis-in-a-frozen-body"/>
+					<artist ref="extreme-putrefaction"/>
+				</artists>
+				<name>Split 2013</name>
+				<format>CD</format>
+				<refs>
+					<discogs>14958278</discogs>
+				</refs>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="ruhr-hunter"/>
+					<artist ref="gruntsplatter"/>
+				</artists>
+				<name>A Split Release</name>
+				<format>CD</format>
+				<refs>
+					<discogs>409823</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="scid"/>
+				<name>Chronic Disembowelment Demo#1</name>
+				<format>CD</format>
+				<refs>
+					<discogs>31697573</discogs>
+				</refs>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="sewer-goddess"/>
+				<name>Dirt Behind the Daydream</name>
+				<format>CD</format>
+				<refs>
+					<discogs>2587336</discogs>
+				</refs>
+			</release>
+			<price>7</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="sewer-goddess"/>
+				<name>With Dirt You Are One</name>
+				<format>CD</format>
+				<refs>
+					<discogs>2156887</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="shamanic-death-trance"/>
+				<name>Zubayn</name>
+				<format>CD</format>
+				<refs>
+					<discogs>1770270</discogs>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="skald-in-veum"/>
+				<name>1260 Days</name>
+				<format>CD</format>
+				<refs>
+					<ma>542087</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="somatoparaphrenia"/>
+				<name>Agreeable Bodypart Separation</name>
+				<format>CD</format>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="steel-hook-prostheses"/>
+				<name>Apotemnophilia</name>
+				<format>CD</format>
+				<refs>
+					<discogs>302372</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="steel-hook-prostheses"/>
+				<name>The Empirics Guild</name>
+				<format>CD</format>
+				<refs>
+					<discogs>4428517</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="sutekh-hexen"/>
+				<name>Larvae</name>
+				<format>CD</format>
+				<refs>
+					<ma>328290</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="synapscape"/>
+				<name>The Stable Mind</name>
+				<format>CD</format>
+				<refs>
+					<discogs>22636691</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="teitanblood"/>
+				<name>Death</name>
+				<format>CD</format>
+				<refs>
+					<ma>401235</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="teitanblood"/>
+				<name>Seven Chalices</name>
+				<format>CD</format>
+				<refs>
+					<ma>231566</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="teitanblood"/>
+				<name>The Baneful Choir</name>
+				<format>CD</format>
+				<refs>
+					<ma>800764</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="the-amenta"/>
+				<name>Flesh Is Heir</name>
+				<format>CD</format>
+				<refs>
+					<ma>369373</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="the-beast-people"/>
+					<artist ref="16-bitch-pile-up"/>
+					<artist ref="blackhumour"/>
+					<artist ref="bob-bellerue"/>
+				</artists>
+				<name>Vol. B</name>
+				<format>CD</format>
+				<refs>
+					<discogs>1254235</discogs>
+				</refs>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="the-corpse-in-the-crawlspace"/>
+				<name>Let There Be Corpse</name>
+				<format>CD</format>
+				<refs>
+					<ma>533669</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="the-corpse-in-the-crawlspace"/>
+				<name>Paratyphoid</name>
+				<format>CD</format>
+				<refs>
+					<ma>537207</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="the-happiest-place-on-earth"/>
+				<name>Body of a Crow</name>
+				<format>CD</format>
+				<refs>
+					<discogs>2330705</discogs>
+					<mbid>2bbe4afb-d405-401c-8d1b-70714ef911eb</mbid>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="the-horn"/>
+				<name>Volume Ten</name>
+				<format>CD</format>
+				<refs>
+					<ma>329446</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="the-ritual-inclusion-of-code"/>
+				<name>Beta Wave Nemisis</name>
+				<format>CD</format>
+				<refs>
+					<discogs>3035660</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="theologian"/>
+				<name>Dregs</name>
+				<format>CD</format>
+				<refs>
+					<mbid>3344fbe1-1248-420b-96c1-bf031d7efb29</mbid>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="theologian"/>
+				<name>Maximum Bitterness Has Been Achieved</name>
+				<format>CD</format>
+				<refs>
+					<discogs>2558928</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="theologian"/>
+				<name>Pain of the Saints</name>
+				<format>CD</format>
+				<refs>
+					<discogs>6520646</discogs>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="thymoma"/>
+					<artist ref="rigor-mortis-in-a-frozen-body"/>
+				</artists>
+				<name>Split</name>
+				<format>CD</format>
+				<refs>
+					<discogs>9842242</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="undocumented-forensic-experiments"/>
+					<artist ref="infester"/>
+				</artists>
+				<name>Split</name>
+				<format>CD</format>
+				<refs>
+					<discogs>7168370</discogs>
+					<ma>1065348</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="vaginal-surgery"/>
+				<name>Vaginal Mesh Failure</name>
+				<format>CD</format>
+				<refs>
+					<mbid>33268e58-00fc-40c5-bfb7-d59c54e78029</mbid>
+				</refs>
+			</release>
+			<price>3</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="void"/>
+					<artist ref="catacombs-of-doom"/>
+				</artists>
+				<name>Blood Ritual</name>
+				<format>CD</format>
+				<refs>
+					<bc album="t-015-blood-ritual">txcindustries</bc>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="wraiths"/>
+				<name>Oriflamme</name>
+				<format>CD</format>
+				<refs>
+					<discogs>951446</discogs>
+				</refs>
+				<note>Original pressing</note>
+			</release>
+			<price>45</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="wraiths"/>
+				<name>Plaguebearer</name>
+				<format>CD</format>
+				<refs>
+					<discogs>925039</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="aevangelist"/>
+				<name>Nightmare Flesh Offering</name>
+				<format>7"</format>
+				<refs>
+					<ma>379531</ma>
+				</refs>
+			</release>
+			<price>13</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="antaeus"/>
+				<name>Rot</name>
+				<format>7"</format>
+				<refs>
+					<ma>60546</ma>
+				</refs>
+				<copies>3</copies>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="antaeus"/>
+					<artist ref="katharsis"/>
+				</artists>
+				<name>Split</name>
+				<format>7"</format>
+				<refs>
+					<ma>227590</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="antaeus"/>
+					<artist ref="necrophagia"/>
+				</artists>
+				<names>
+					<name>Reverse Voices of the Dead</name>
+					<name>Devil Eyes</name>
+				</names>
+				<format>7"</format>
+				<refs>
+					<ma>21275</ma>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="black-cop"/>
+				<name>Black Cop</name>
+				<format>7"</format>
+				<refs>
+					<discogs>9118985</discogs>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="blut-aus-nord"/>
+				<name>Debemur MoRTi</name>
+				<format>7"</format>
+				<refs>
+					<ma>401391</ma>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="embalming-theatre"/>
+					<artist ref="agathocles"/>
+				</artists>
+				<names>
+					<name>Even Shakespeare Fed the Worms</name>
+					<name>Piles Left to Rot</name>
+				</names>
+				<format>7"</format>
+				<refs>
+					<ma>21341</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="embalming-theatre"/>
+					<artist ref="terrorism"/>
+				</artists>
+				<names>
+					<name>Web-Cam in My Coffin</name>
+					<name>Suicidal Bombers</name>
+				</names>
+				<format>7"</format>
+				<refs>
+					<ma>213836</ma>
+				</refs>
+			</release>
+			<price>6</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="lvcifyre"/>
+				<name>Dying Light ov God</name>
+				<format>7"</format>
+				<refs>
+					<ma>241336</ma>
+				</refs>
+			</release>
+			<price>8</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="machetazo"/>
+					<artist ref="headless-death"/>
+				</artists>
+				<names>
+					<name xml:lang="es">Machetazo</name>
+					<name xml:lang="en">Undignified Death</name>
+				</names>
+				<format>7"</format>
+				<refs>
+					<ma>427450</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="maggot-shoes"/>
+					<artist ref="embalming-theatre"/>
+				</artists>
+				<names>
+					<name>F. F. Roy</name>
+					<name>Daddy Raped My Girlfriends</name>
+				</names>
+				<format>7"</format>
+				<refs>
+					<ma>28081</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="porta-nigra"/>
+				<name>Megalomaniac</name>
+				<format>7"</format>
+				<refs>
+					<ma>351089</ma>
+				</refs>
+				<copies>2</copies>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="portal"/>
+				<name>The End Mills</name>
+				<format>7"</format>
+				<refs>
+					<ma>485467</ma>
+				</refs>
+			</release>
+			<price>20</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="protestant"/>
+					<artist ref="suffering-mind"/>
+				</artists>
+				<name>Split</name>
+				<format>7"</format>
+				<refs>
+					<ma>464068</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="roskopp"/>
+					<artist ref="doubled-over"/>
+				</artists>
+				<name>Split</name>
+				<format>7"</format>
+				<refs>
+					<ma>319327</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="saywhy"/>
+					<artist ref="bastardass"/>
+				</artists>
+				<name>Split</name>
+				<format>7"</format>
+				<refs>
+					<ma>332658</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="sewn-shut"/>
+					<artist ref="embalming-theatre"/>
+				</artists>
+				<name>Split</name>
+				<format>7"</format>
+				<refs>
+					<ma>186635</ma>
+				</refs>
+			</release>
+			<price>8</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="synapscape"/>
+				<name>Immaculate</name>
+				<format>7"</format>
+				<refs>
+					<discogs>17915380</discogs>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="titadine"/>
+					<artist ref="afonia"/>
+				</artists>
+				<names>
+					<name xml:lang="eu">Denok Garbitu Behar Dugu Norbait…</name>
+					<name xml:lang="en">Oblivion</name>
+				</names>
+				<format>7"</format>
+				<refs>
+					<discogs>4768690</discogs>
+				</refs>
+			</release>
+			<price>7</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="unholy-grave"/>
+					<artist ref="embalming-theatre"/>
+				</artists>
+				<names>
+					<name>Catapult for Steaming Cadavers</name>
+					<name>Ignorance</name>
+				</names>
+				<format>7"</format>
+				<refs>
+					<ma>28043</ma>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="amnis-nihili"/>
+				<name>Christological Escalation</name>
+				<format>10"</format>
+				<refs>
+					<ma>429402</ma>
+				</refs>
+			</release>
+			<price>6</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="headcrash"/>
+					<artist ref="lymphatic-phlegm"/>
+				</artists>
+				<names>
+					<name>Untitled</name>
+					<name>Cyanosis - Profuse, Sanguine, Expurgate</name>
+				</names>
+				<format>10"</format>
+				<refs>
+					<ma>315921</ma>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+
+		<item>
+			<release>
+				<artist ref="aevangelist"/>
+				<name xml:lang="la">De Masticatione Mortuorum in Tumulis</name>
+				<format>12"</format>
+				<refs>
+					<ma>444376</ma>
+				</refs>
+			</release>
+			<price>15</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="aevangelist"/>
+				<name>Enthrall to the Void of Bliss</name>
+				<format>12"</format>
+				<refs>
+					<ma>599158</ma>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="altar-of-plagues"/>
+				<name>White Tomb</name>
+				<format>12"</format>
+				<refs>
+					<ma>429449</ma>
+				</refs>
+				<note>clear vinyl</note>
+			</release>
+			<price>20</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="anaal-nathrakh"/>
+				<name>Desideratum</name>
+				<format>12"</format>
+				<refs>
+					<ma>447565</ma>
+				</refs>
+				<note>black vinyl</note>
+			</release>
+			<price>15</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="anaal-nathrakh"/>
+				<name>Hell Is Empty, And All the Devils Are Here</name>
+				<format>12"</format>
+				<refs>
+					<ma>413300</ma>
+				</refs>
+				<note>smoky-white splatter vinyl</note>
+			</release>
+			<price>25</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="antaeus"/>
+				<name>Blood Libels</name>
+				<format>12"</format>
+				<refs>
+					<ma>841230</ma>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="antaeus"/>
+				<name>Satanic Audio Violence 2013 - Live at Wolf Throne Festival</name>
+				<format>12"</format>
+				<refs>
+					<ma>472922</ma>
+				</refs>
+			</release>
+			<price>15</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="blut-aus-nord"/>
+				<name>Memoria Vetusta III: Saturnian Poetry</name>
+				<format>12"</format>
+				<refs>
+					<ma>856477</ma>
+				</refs>
+			</release>
+			<price>25</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="brighter-death-now"/>
+				<name>May All Be Dead</name>
+				<format>12"</format>
+				<refs>
+					<discogs>1165375</discogs>
+				</refs>
+			</release>
+			<price>20</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="dephosphorus"/>
+				<name>Axiom</name>
+				<format>12"</format>
+				<refs>
+					<ma>305697</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="dephosphorus"/>
+				<name>Ravenous Solemnity</name>
+				<format>12"</format>
+				<refs>
+					<ma>401992</ma>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="drudkh"/>
+				<names format="%1 (%2)">
+					<name xml:lang="uk">Борозна обірвалася</name>
+					<name xml:lang="en">A Furrow Cut Short</name>
+				</names>
+				<format>12"</format>
+				<refs>
+					<ma>505059</ma>
+				</refs>
+				<note>orange/black vinyl</note>
+			</release>
+			<price>20</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="elasticdeath"/>
+					<artist ref="wheelchair-x4"/>
+				</artists>
+				<name>Split</name>
+				<format>12"</format>
+				<refs>
+					<ma>598323</ma>
+				</refs>
+			</release>
+			<price>5</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="embalming-theatre"/>
+				<name>Sweet Chainsaw Melodies</name>
+				<format>12"</format>
+				<refs>
+					<ma>421396</ma>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="endstille"/>
+					<artist ref="kilt"/>
+				</artists>
+				<name>Split</name>
+				<format>12"</format>
+				<refs>
+					<ma>289140</ma>
+				</refs>
+			</release>
+			<price>20</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="fukpig"/>
+				<name>3</name>
+				<format>12"</format>
+				<refs>
+					<ma>429411</ma>
+				</refs>
+				<note>black vinyl</note>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="graupel"/>
+					<artist ref="endstille"/>
+				</artists>
+				<name xml:lang="de">Lauschangriff...</name>
+				<format>12"</format>
+				<refs>
+					<ma>132724</ma>
+				</refs>
+				<note>#331/500</note>
+			</release>
+			<price>45</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="ldoh"/>
+				<name>Goresurrection</name>
+				<format>12"</format>
+				<refs>
+					<discogs>2511634</discogs>
+				</refs>
+				<note>#134/300</note>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="ldoh"/>
+					<artist ref="necrocannibalistic-vomitorium"/>
+				</artists>
+				<names>
+					<name>The Sound of Rancid Juices Sloshing Around Eindhoven</name>
+					<name>Moral Damage</name>
+				</names>
+				<format>12"</format>
+				<refs>
+					<ma>816496</ma>
+				</refs>
+				<note>translucent orange vinyl</note>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artists>
+					<artist ref="nekrasov"/>
+					<artist ref="aderlating"/>
+				</artists>
+				<name>Hymns of Venomous Cosmic Malice</name>
+				<format>12"</format>
+				<refs>
+					<ma>262982</ma>
+				</refs>
+			</release>
+			<price>12.61</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="operation-cleansweep"/>
+				<name>Powerhungry</name>
+				<format>12"</format>
+				<refs>
+					<discogs>182374</discogs>
+				</refs>
+				<note>#50/500</note>
+			</release>
+			<price>50</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="premature-ejaculation"/>
+				<name>Assertive Discipline</name>
+				<format>12"</format>
+				<refs>
+					<discogs>105283</discogs>
+				</refs>
+			</release>
+			<price>15</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="premature-ejaculation"/>
+				<name>Blood Told in Spine</name>
+				<format>12"</format>
+				<refs>
+					<discogs>681346</discogs>
+				</refs>
+			</release>
+			<price>150</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="rose-croix"/>
+				<name xml:lang="fr">Rose Croix</name>
+				<format>12"</format>
+				<refs>
+					<discogs>3819472</discogs>
+				</refs>
+			</release>
+			<price>10</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="samael"/>
+				<name>Ceremony of Opposites</name>
+				<format>12"</format>
+				<refs>
+					<ma>441988</ma>
+				</refs>
+				<note>picture disc</note>
+			</release>
+			<price>30</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="sewer-goddess"/>
+				<name>Sewer Goddess</name>
+				<format>12"</format>
+				<refs>
+					<discogs>1737001</discogs>
+				</refs>
+			</release>
+			<price>12</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="standing-on-a-floor-of-bodies"/>
+				<name>Sacrilegious &amp; Culturally Deficient</name>
+				<format>12"</format>
+				<refs>
+					<ma>350097</ma>
+				</refs>
+			</release>
+			<price>8</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="sunn-o"/>
+				<name><abbr text="Los Angeles" type="initialism" show="false">LA</abbr> <abbr text="Rehearsal" show="false">Reh</abbr> 012</name>
+				<format>12"</format>
+				<refs>
+					<ma>397077</ma>
+				</refs>
+			</release>
+			<price>25</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="velvet-cacoon"/>
+				<name>Northsuite</name>
+				<format>12"</format>
+				<refs>
+					<ma>523032</ma>
+				</refs>
+				<note>black vinyl</note>
+			</release>
+			<price>15</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="wittr"/>
+				<name>Malevolent Grain</name>
+				<format>12"</format>
+				<refs>
+					<ma>224264</ma>
+				</refs>
+			</release>
+			<price>15</price>
+		</item>
+		
+		<item>
+			<release>
+				<artist ref="wittr"/>
+				<name>Turning Ever Towards the Sun - Live at Neudegg Alm</name>
+				<format>12"</format>
+				<refs>
+					<ma>469403</ma>
+				</refs>
+				<note>#353/500</note>
+			</release>
+			<price>30</price>
+		</item>
+	</items>
+</inventory>

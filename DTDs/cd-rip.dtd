@@ -1,0 +1,26 @@
+<!--
+	Metadata and identifiers for CD rips created using cdio(1).
+
+	<album>         - MusicBrainz release ID
+	<artist>        - MusicBrainz artist ID
+	<album-artist>  - MusicBrainz album-artist ID (usually matches artist ID)
+	<release-group> - MusicBrainz release-group ID
+	<release-track> - MusicBrainz track ID
+	<fingerprint>   - AcoustID fingerprint
+
+	* MusicBrainz IDs are UUIDs (RFC 9562). Details about MBIDs can
+	  be found at https://musicbrainz.org/doc/MusicBrainz_Identifier
+	* AcoustID Fingerprints can be generated locally using:
+	  `fpcalc -plain track.wav | tr -d '\n' | fold -w 78`
+-->
+<!ELEMENT file (album|artist|album-artist|release-group|release-track)+>
+<!ATTLIST file name CDATA #REQUIRED>
+<!ELEMENT files (file)*>
+
+<!ELEMENT album         (#PCDATA)>
+<!ELEMENT artist        (#PCDATA)>
+<!ELEMENT album-artist  (#PCDATA)>
+<!ELEMENT release-group (#PCDATA)>
+<!ELEMENT release-track (#PCDATA)>
+<!ELEMENT fingerprint   (#PCDATA)>
+<!ATTLIST fingerprint duration CDATA #IMPLIED>

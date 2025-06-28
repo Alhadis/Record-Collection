@@ -1,0 +1,3 @@
+# Include XML/SGML-related filetypes in language usage statistics
+*.dtd linguist-detectable linguist-language=XML
+*.xml linguist-detectable

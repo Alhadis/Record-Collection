@@ -13,9 +13,9 @@
 	* AcoustID Fingerprints can be generated locally using:
 	  `fpcalc -plain track.wav | tr -d '\n' | fold -w 78`
 -->
-<!ELEMENT file (album|artist|album-artist|release-group|release-track)+>
+<!ELEMENT file (album|artist|album-artist|fingerprint|release-group|release-track)+>
 <!ATTLIST file name CDATA #REQUIRED>
-<!ELEMENT files (file)*>
+<!ELEMENT files (file)+>
 
 <!ELEMENT album         (#PCDATA)>
 <!ELEMENT artist        (#PCDATA)>

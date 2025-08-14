@@ -46,5 +46,6 @@ ones that require a physical copy on-hand).
 <!-- Referenced links ------------------------------------------------->
 [eBay]:        https://www.ebay.com/usr/alhadis
 [Picard]:      https://musicbrainz.org/doc/Picard
+[Record-Jar]:  https://github.com/Alhadis/Record-Jar
 [`cdio(1)`]:   https://man.openbsd.org/cdio.1
 [`rip-cd.sh`]: ./rip-cd.sh
